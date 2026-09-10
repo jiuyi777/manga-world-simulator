@@ -1,15 +1,23 @@
 # 漫画世界模拟器
 
-漫画世界模拟器独立前端的 Android 与 Windows 公开测试包。无需安装 SillyTavern。
+提供 Android、Windows 独立应用和 SillyTavern 酒馆角色卡。独立应用无需安装 SillyTavern；酒馆角色卡需在酒馆内导入。
 
 ## 下载
 
-前往 [Releases 下载页面](https://github.com/jiuyi777/manga-world-simulator/releases) 获取 APK 或 Windows ZIP。不要下载 GitHub 自动生成的 Source code ZIP 来安装软件。
+前往 [Releases 下载页面](https://github.com/jiuyi777/manga-world-simulator/releases) 获取 APK、Windows ZIP 或酒馆角色卡 PNG/JSON。不要下载 GitHub 自动生成的 Source code ZIP 来安装软件。
 
 - Android：下载 APK，支持 Android 8.0 及以上。
 - Windows：下载 Windows-x64 ZIP，完整解压后双击 `漫画世界模拟器.exe`。其他文件也是运行必需的，不能只取出 EXE。支持 Windows 10/11 64 位。
 
-## 使用
+## 最新版本
+
+[本次发布：独立应用 v0.2.41 / 酒馆版 v0.2.77](https://github.com/jiuyi777/manga-world-simulator/releases/tag/v0.2.41)。独立应用修正硅基流动 min_p 兼容点并显示具体错误；原始 400 根因仍需实际账号验证。
+
+酒馆版导入 Release 中的 card.png 或 card.json，二选一。需要启用酒馆助手、卡内正则和脚本；世界书、Zod 结构及 MVU 加载脚本已内嵌，远程模块与图片仍需联网。默认全球 MVU 加载脚本开启，国内备用关闭，切换时只保留一个开启。
+
+酒馆版“显示样式 → 正文大小”支持 12–28px 调整、记忆和恢复默认，不改变标题大小或酒馆生成方式。本次经过桌面/窄屏浏览器字号检查，未完成真实酒馆发送验收。
+
+## 独立应用使用
 
 在“接口”里配置自己的模型服务。主剧情接口与额外变量解析接口可以分别设置，两边均支持拉取模型列表，也可以手填模型 ID。生成剧情需要可用的模型服务；安装包不包含接口密钥。
 
@@ -17,7 +25,7 @@
 
 在尚未发送玩家行动的开场阶段，可以 Roll 开场白。玩家输入“大总结”并成功完成后，会用总摘要替代当前档此前逐轮历史，保留当前变量继续；失败不清空旧历史。重要剧情请先另存或导出备份。
 
-各平台数据独立，不会自动同步。可用存档导出/导入迁移，接口信息需要另外填写。更新前请导出重要存档。
+各平台数据独立，不会自动同步。独立应用可用存档导出/导入迁移，接口信息需要另外填写；酒馆聊天与独立应用存档不保证互相导入。更新前请导出重要存档。
 
 ## 测试与限制
 
