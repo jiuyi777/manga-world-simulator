@@ -2,7 +2,7 @@
 
 ## GL 百合版下载（2026-10-06）
 
-[GL 全平台公开测试版下载](https://github.com/jiuyi777/manga-world-simulator/releases/tag/v0.2.40-gl.3-layoutfix-20261006)：APK、Windows ZIP、离线网页、源码、酒馆卡 PNG/JSON 集中于同一 Release。
+[GL 全平台公开测试版下载](https://github.com/jiuyi777/manga-world-simulator/releases/tag/v0.2.40-gl.3-premise-20261006)：APK、Windows ZIP、离线网页、源码、酒馆卡 PNG/JSON 集中于同一 Release。
 
 - APK / Windows：三种阅读主题、手机排版、字号调整、当前存档 User 人设、自建世界书。207 张筛选立绘内置，接口密钥由使用者自行填写。
 - 酒馆卡：PNG 或 JSON 二选一导入，使用酒馆原生 User 人设与世界书。需要酒馆助手、卡内正则和 MVU；全球/国内加载器仅启用一个。酒馆宿主界面与独立应用三主题阅读器不同。卡内图片由本仓库 gl/assets 提供，需联网。
