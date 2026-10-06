@@ -332,7 +332,7 @@
         "variables": {}
       },
       "manga_world_test": {
-        "packageVersion": "0.2.77-full-same-floor",
+        "packageVersion": "0.2.77-gl.1",
         "backgroundOrigin": "https://raw.githubusercontent.com/jiuyi777/manga-world-simulator/main/gl/assets/backgrounds",
         "sourceSchemaVersion": 2,
         "uiProjectionMode": "live-message-stat-data"
@@ -345,7 +345,7 @@
       "token_budget": 12000,
       "recursive_scanning": false,
       "extensions": {
-        "mvu_worldbook_name": "漫画世界模拟器-绝不想变成BL-MVU-v2-test-0.2.77",
+        "mvu_worldbook_name": "漫画世界模拟器-GL-0.2.77-gl.1",
         "sourceSchemaVersion": 2
       },
       "entries": [
