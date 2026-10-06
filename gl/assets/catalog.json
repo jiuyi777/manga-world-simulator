@@ -1,0 +1,4798 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "manga-world-gl-portraits",
+  "catalogVersion": "2026-10-06.2",
+  "generatedAt": "2026-10-03T15:40:03.379536+00:00",
+  "sourceCatalogUrl": "https://raw.githubusercontent.com/jiuyi777/manga-world-npc-portraits/main/gl/catalog.json",
+  "urlPolicy": "图片相对 catalog.json 解析；独立版内置全部已选立绘，存档只保存稳定资源键。",
+  "policy": {
+    "allRelationshipEligibleNpcsMustBeAdults": true,
+    "appendOnlyGroupIds": true,
+    "reuseActiveGroup": false,
+    "unknownMatch": "leave-null"
+  },
+  "groups": [
+    {
+      "id": "gl-character-001",
+      "label": "角色 01",
+      "sourceCharacterNumber": 1,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "长发单侧编辫",
+        "hairColor": "灰粉色",
+        "eyeColor": "浅紫色",
+        "featureTags": [
+          "象牙白衬衫、灰紫束身背心"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:001:1d1ebd80-2300-4eb6-b8ed-52ac032a6dda_1",
+      "assetKeys": [
+        "mj-gl:001:1d1ebd80-2300-4eb6-b8ed-52ac032a6dda_1",
+        "mj-gl:001:1d1ebd80-2300-4eb6-b8ed-52ac032a6dda_3",
+        "mj-gl:001:821a5d7d-ce96-4876-b230-9c0556c753c5_0",
+        "mj-gl:001:821a5d7d-ce96-4876-b230-9c0556c753c5_1",
+        "mj-gl:001:821a5d7d-ce96-4876-b230-9c0556c753c5_2",
+        "mj-gl:001:821a5d7d-ce96-4876-b230-9c0556c753c5_3",
+        "mj-gl:001:be8f2377-a15c-43e7-b646-54533cc2f900_0"
+      ]
+    },
+    {
+      "id": "gl-character-002",
+      "label": "角色 02",
+      "sourceCharacterNumber": 2,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "侧分齐颌短发",
+        "hairColor": "银蓝色",
+        "eyeColor": "湖蓝色",
+        "featureTags": [
+          "海军蓝短外套、白立领内搭"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:002:2cd82192-9c28-4214-b3a1-48dea14c398a_0",
+      "assetKeys": [
+        "mj-gl:002:2cd82192-9c28-4214-b3a1-48dea14c398a_0",
+        "mj-gl:002:2cd82192-9c28-4214-b3a1-48dea14c398a_1",
+        "mj-gl:002:a1289f2b-4372-4523-ad77-0052d14e52b2_0",
+        "mj-gl:002:a1289f2b-4372-4523-ad77-0052d14e52b2_1",
+        "mj-gl:002:a1289f2b-4372-4523-ad77-0052d14e52b2_2",
+        "mj-gl:002:a1289f2b-4372-4523-ad77-0052d14e52b2_3"
+      ]
+    },
+    {
+      "id": "gl-character-003",
+      "label": "角色 03",
+      "sourceCharacterNumber": 3,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "高马尾、碎刘海",
+        "hairColor": "薄荷绿色",
+        "eyeColor": "金绿色",
+        "featureTags": [
+          "米白游侠上衣、绿色肩披"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:003:18bbc2b9-dd3a-4909-8c7c-f3af7cc50af4_2",
+      "assetKeys": [
+        "mj-gl:003:18bbc2b9-dd3a-4909-8c7c-f3af7cc50af4_2",
+        "mj-gl:003:18bbc2b9-dd3a-4909-8c7c-f3af7cc50af4_3",
+        "mj-gl:003:27e092cc-a45b-4dba-a283-8b4a4bd44221_2",
+        "mj-gl:003:4be9032c-883b-45d0-94fb-7f7acae97201_2",
+        "mj-gl:003:4be9032c-883b-45d0-94fb-7f7acae97201_3"
+      ]
+    },
+    {
+      "id": "gl-character-004",
+      "label": "角色 04",
+      "sourceCharacterNumber": 4,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "半扎长发、微卷发尾",
+        "hairColor": "淡紫色",
+        "eyeColor": "青蓝色",
+        "featureTags": [
+          "深紫法师上衣、银边短披肩"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:004:374c1866-6c54-4b08-a08b-e03283ca98e2_0",
+      "assetKeys": [
+        "mj-gl:004:374c1866-6c54-4b08-a08b-e03283ca98e2_0",
+        "mj-gl:004:374c1866-6c54-4b08-a08b-e03283ca98e2_1",
+        "mj-gl:004:374c1866-6c54-4b08-a08b-e03283ca98e2_3",
+        "mj-gl:004:e175950d-0d8e-45ff-8223-aeb9633309bc_0",
+        "mj-gl:004:e175950d-0d8e-45ff-8223-aeb9633309bc_1",
+        "mj-gl:004:e175950d-0d8e-45ff-8223-aeb9633309bc_3",
+        "mj-gl:004:f4873e72-785e-4472-8dba-a97ccba7100c_2",
+        "mj-gl:004:f4873e72-785e-4472-8dba-a97ccba7100c_3"
+      ]
+    },
+    {
+      "id": "gl-character-005",
+      "label": "角色 05",
+      "sourceCharacterNumber": 5,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "低双辫、空气刘海",
+        "hairColor": "雾蓝色",
+        "eyeColor": "琥珀色",
+        "featureTags": [
+          "白蓝旅行者短斗篷"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:005:6bc11bc6-fa8f-4295-8669-ba6fb24ba3bf_0",
+      "assetKeys": [
+        "mj-gl:005:6bc11bc6-fa8f-4295-8669-ba6fb24ba3bf_0",
+        "mj-gl:005:6bc11bc6-fa8f-4295-8669-ba6fb24ba3bf_2",
+        "mj-gl:005:a996eaac-9f3b-4a8e-a047-ae6b5cdc697e_2",
+        "mj-gl:005:a996eaac-9f3b-4a8e-a047-ae6b5cdc697e_3"
+      ]
+    },
+    {
+      "id": "gl-character-006",
+      "label": "角色 06",
+      "sourceCharacterNumber": 6,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "波波头、斜刘海",
+        "hairColor": "珊瑚粉色",
+        "eyeColor": "绿松石色",
+        "featureTags": [
+          "珊瑚色短夹克、灰白高领"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:006:50947f8f-3ef3-4b92-9954-3a7c60a6565a_1",
+      "assetKeys": [
+        "mj-gl:006:50947f8f-3ef3-4b92-9954-3a7c60a6565a_1",
+        "mj-gl:006:5861966b-d52b-403f-8dc0-da9ae5394d97_0",
+        "mj-gl:006:ac486938-c177-427c-828e-7121a2afab10_1",
+        "mj-gl:006:ac486938-c177-427c-828e-7121a2afab10_3"
+      ]
+    },
+    {
+      "id": "gl-character-007",
+      "label": "角色 07",
+      "sourceCharacterNumber": 7,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "低盘发、两缕鬓发",
+        "hairColor": "银白色",
+        "eyeColor": "冰蓝色",
+        "featureTags": [
+          "白银骑士便装、小型肩甲"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:007:03f51c67-a322-4797-b3b4-4531db8d032b_0",
+      "assetKeys": [
+        "mj-gl:007:03f51c67-a322-4797-b3b4-4531db8d032b_0",
+        "mj-gl:007:03f51c67-a322-4797-b3b4-4531db8d032b_1",
+        "mj-gl:007:03f51c67-a322-4797-b3b4-4531db8d032b_2",
+        "mj-gl:007:03f51c67-a322-4797-b3b4-4531db8d032b_3",
+        "mj-gl:007:4d5471d8-901e-4631-906b-3ffcd3e342ca_0",
+        "mj-gl:007:4d5471d8-901e-4631-906b-3ffcd3e342ca_1",
+        "mj-gl:007:4d5471d8-901e-4631-906b-3ffcd3e342ca_2",
+        "mj-gl:007:4d5471d8-901e-4631-906b-3ffcd3e342ca_3",
+        "mj-gl:007:55bb3841-2a46-452c-b12e-7676d146b0e8_0",
+        "mj-gl:007:55bb3841-2a46-452c-b12e-7676d146b0e8_1",
+        "mj-gl:007:55bb3841-2a46-452c-b12e-7676d146b0e8_2",
+        "mj-gl:007:55bb3841-2a46-452c-b12e-7676d146b0e8_3"
+      ]
+    },
+    {
+      "id": "gl-character-008",
+      "label": "角色 08",
+      "sourceCharacterNumber": 8,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "中长狼尾、侧发夹",
+        "hairColor": "浅青色",
+        "eyeColor": "浅紫色",
+        "featureTags": [
+          "黑青轻便侦察服"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:008:420e5091-0af3-4650-85f5-2ccdb8eac827_1",
+      "assetKeys": [
+        "mj-gl:008:420e5091-0af3-4650-85f5-2ccdb8eac827_1",
+        "mj-gl:008:e97c08b0-4403-45f4-a0dd-ab2116dfa84e_0",
+        "mj-gl:008:e97c08b0-4403-45f4-a0dd-ab2116dfa84e_1",
+        "mj-gl:008:e97c08b0-4403-45f4-a0dd-ab2116dfa84e_3"
+      ]
+    },
+    {
+      "id": "gl-character-009",
+      "label": "角色 09",
+      "sourceCharacterNumber": 9,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "长卷发、半编发",
+        "hairColor": "香槟金色",
+        "eyeColor": "玫红色",
+        "featureTags": [
+          "奶油色炼金术师上衣、酒红领结"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:009:0c444aff-7d83-435e-8f66-c40eae9fef67_0",
+      "assetKeys": [
+        "mj-gl:009:0c444aff-7d83-435e-8f66-c40eae9fef67_0",
+        "mj-gl:009:0c444aff-7d83-435e-8f66-c40eae9fef67_1",
+        "mj-gl:009:0c444aff-7d83-435e-8f66-c40eae9fef67_2",
+        "mj-gl:009:0c444aff-7d83-435e-8f66-c40eae9fef67_3",
+        "mj-gl:009:ae928510-a5eb-4338-b6c1-b1b5fb5d20d5_1",
+        "mj-gl:009:ae928510-a5eb-4338-b6c1-b1b5fb5d20d5_3",
+        "mj-gl:009:f7007b22-be95-498c-a258-45253e4e4a3f_0",
+        "mj-gl:009:f7007b22-be95-498c-a258-45253e4e4a3f_2"
+      ]
+    },
+    {
+      "id": "gl-character-010",
+      "label": "角色 10",
+      "sourceCharacterNumber": 10,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "高丸子头、长鬓发",
+        "hairColor": "梅紫色",
+        "eyeColor": "金色",
+        "featureTags": [
+          "白紫交领短上衣"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:010:15173b79-ad26-4447-9ffb-725e2228b859_0",
+      "assetKeys": [
+        "mj-gl:010:15173b79-ad26-4447-9ffb-725e2228b859_0",
+        "mj-gl:010:15173b79-ad26-4447-9ffb-725e2228b859_2",
+        "mj-gl:010:376ddf25-7d20-4339-b432-9604d5dc24f3_0",
+        "mj-gl:010:376ddf25-7d20-4339-b432-9604d5dc24f3_1",
+        "mj-gl:010:376ddf25-7d20-4339-b432-9604d5dc24f3_2",
+        "mj-gl:010:376ddf25-7d20-4339-b432-9604d5dc24f3_3",
+        "mj-gl:010:990ef78c-9492-41d1-977f-b82201fc9bcf_2"
+      ]
+    },
+    {
+      "id": "gl-character-011",
+      "label": "角色 11",
+      "sourceCharacterNumber": 11,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "侧马尾、偏分刘海",
+        "hairColor": "烟粉色",
+        "eyeColor": "灰蓝色",
+        "featureTags": [
+          "灰粉乐师外套、白衬衫"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:011:9faefa6f-babc-4e2d-a039-33b1f092d964_3",
+      "assetKeys": [
+        "mj-gl:011:9faefa6f-babc-4e2d-a039-33b1f092d964_3",
+        "mj-gl:011:b1b19173-fca5-4070-b2f2-b84dd27c6a86_1",
+        "mj-gl:011:b1b19173-fca5-4070-b2f2-b84dd27c6a86_2"
+      ]
+    },
+    {
+      "id": "gl-character-012",
+      "label": "角色 12",
+      "sourceCharacterNumber": 12,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "直长发",
+        "hairColor": "黑色、蓝色挑染",
+        "eyeColor": "蓝紫色",
+        "featureTags": [
+          "深蓝学院制服、银扣"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:012:547daf9b-d8d7-430b-ba63-fe147810cb8c_1",
+      "assetKeys": [
+        "mj-gl:012:547daf9b-d8d7-430b-ba63-fe147810cb8c_1",
+        "mj-gl:012:6419cab6-d461-4296-92f4-fd5415c28426_0",
+        "mj-gl:012:6419cab6-d461-4296-92f4-fd5415c28426_1",
+        "mj-gl:012:6419cab6-d461-4296-92f4-fd5415c28426_3",
+        "mj-gl:012:c3bdd14d-acbf-482d-ac20-6f47dfc59404_0",
+        "mj-gl:012:c3bdd14d-acbf-482d-ac20-6f47dfc59404_1",
+        "mj-gl:012:c3bdd14d-acbf-482d-ac20-6f47dfc59404_2"
+      ]
+    },
+    {
+      "id": "gl-character-013",
+      "label": "角色 13",
+      "sourceCharacterNumber": 13,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "双低马尾",
+        "hairColor": "白色、浅桃色发尾",
+        "eyeColor": "浅绿色",
+        "featureTags": [
+          "桃白治疗师连衣上装"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:013:1f59872d-b7ef-40f8-a8de-7f2519ea708e_1",
+      "assetKeys": [
+        "mj-gl:013:1f59872d-b7ef-40f8-a8de-7f2519ea708e_1",
+        "mj-gl:013:1f59872d-b7ef-40f8-a8de-7f2519ea708e_2",
+        "mj-gl:013:a7ba2489-f38f-47a4-958f-6d1ad0de1219_0",
+        "mj-gl:013:a7ba2489-f38f-47a4-958f-6d1ad0de1219_1",
+        "mj-gl:013:a7ba2489-f38f-47a4-958f-6d1ad0de1219_2",
+        "mj-gl:013:bc772285-5114-4535-be68-51d726e217cc_0",
+        "mj-gl:013:bc772285-5114-4535-be68-51d726e217cc_2",
+        "mj-gl:013:bc772285-5114-4535-be68-51d726e217cc_3"
+      ]
+    },
+    {
+      "id": "gl-character-014",
+      "label": "角色 14",
+      "sourceCharacterNumber": 14,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "短卷发",
+        "hairColor": "浅灰薰衣草色",
+        "eyeColor": "蓝绿色",
+        "featureTags": [
+          "炭灰工匠马甲、淡紫内搭"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:014:dbca55bc-a1ec-4c47-984c-c6627750e325_1",
+      "assetKeys": [
+        "mj-gl:014:dbca55bc-a1ec-4c47-984c-c6627750e325_1",
+        "mj-gl:014:e6475f71-dfc2-4837-88e1-cfe22dad7374_1",
+        "mj-gl:014:f2e8eb00-bbcc-4393-80c4-27f2aa7bbafd_0"
+      ]
+    },
+    {
+      "id": "gl-character-015",
+      "label": "角色 15",
+      "sourceCharacterNumber": 15,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "长发、冠状编辫",
+        "hairColor": "青绿色",
+        "eyeColor": "黄绿色",
+        "featureTags": [
+          "深绿植物学者外套、米色领口"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:015:16e09447-022c-4823-a75c-fc177326e766_2",
+      "assetKeys": [
+        "mj-gl:015:16e09447-022c-4823-a75c-fc177326e766_2",
+        "mj-gl:015:16e09447-022c-4823-a75c-fc177326e766_3",
+        "mj-gl:015:2ebd0af9-f674-4f4a-92e4-e0a9309abc1a_1",
+        "mj-gl:015:2ebd0af9-f674-4f4a-92e4-e0a9309abc1a_2",
+        "mj-gl:015:5b23c0c4-0924-4393-bab5-cd0c0f07220d_3"
+      ]
+    },
+    {
+      "id": "gl-character-016",
+      "label": "角色 16",
+      "sourceCharacterNumber": 16,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "中长发、外翘发尾",
+        "hairColor": "玫瑰金色",
+        "eyeColor": "紫色",
+        "featureTags": [
+          "红棕冒险者短上衣、白袖"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:016:5bd401c7-513c-4072-b872-bb28492e44f1_2",
+      "assetKeys": [
+        "mj-gl:016:5bd401c7-513c-4072-b872-bb28492e44f1_2",
+        "mj-gl:016:5bd401c7-513c-4072-b872-bb28492e44f1_3",
+        "mj-gl:016:992983f9-f76b-4c65-96fa-d0e09064f093_3",
+        "mj-gl:016:b4c79c48-6d61-48ab-8c27-3ad935e7a907_1"
+      ]
+    },
+    {
+      "id": "gl-character-018",
+      "label": "角色 18",
+      "sourceCharacterNumber": 18,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "姬发、直刘海",
+        "hairColor": "丁香紫色",
+        "eyeColor": "珊瑚红色",
+        "featureTags": [
+          "白丁香宫廷便装、窄丝带"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:018:45e7fd81-a4ca-4fe2-93d1-543ffa0da158_1",
+      "assetKeys": [
+        "mj-gl:018:45e7fd81-a4ca-4fe2-93d1-543ffa0da158_1",
+        "mj-gl:018:45e7fd81-a4ca-4fe2-93d1-543ffa0da158_3",
+        "mj-gl:018:5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_0",
+        "mj-gl:018:5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_1",
+        "mj-gl:018:5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_2",
+        "mj-gl:018:5f72dc2e-6287-496f-b15a-3e7799a0a9df_0",
+        "mj-gl:018:5f72dc2e-6287-496f-b15a-3e7799a0a9df_1"
+      ]
+    },
+    {
+      "id": "gl-character-019",
+      "label": "角色 19",
+      "sourceCharacterNumber": 19,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "露额短发",
+        "hairColor": "薄荷白色",
+        "eyeColor": "金蓝色",
+        "featureTags": [
+          "青白剑士短外套、简洁腕带"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:019:5cf9d80b-7cbc-4531-bdb0-80e31e113ccc_2",
+      "assetKeys": [
+        "mj-gl:019:5cf9d80b-7cbc-4531-bdb0-80e31e113ccc_2",
+        "mj-gl:019:5cf9d80b-7cbc-4531-bdb0-80e31e113ccc_3",
+        "mj-gl:019:63d40269-329e-424c-a6f4-971acad78eda_0",
+        "mj-gl:019:63d40269-329e-424c-a6f4-971acad78eda_3",
+        "mj-gl:019:d043db0b-bbbe-4f99-87b1-df42700844a6_0",
+        "mj-gl:019:d043db0b-bbbe-4f99-87b1-df42700844a6_1",
+        "mj-gl:019:d043db0b-bbbe-4f99-87b1-df42700844a6_2"
+      ]
+    },
+    {
+      "id": "gl-character-020",
+      "label": "角色 20",
+      "sourceCharacterNumber": 20,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "长发低马尾",
+        "hairColor": "灰玫红色",
+        "eyeColor": "浅金色",
+        "featureTags": [
+          "黑玫色魔法研究员便装"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:020:1b8f5585-5a2f-4c68-9977-75419ef4dfb3_0",
+      "assetKeys": [
+        "mj-gl:020:1b8f5585-5a2f-4c68-9977-75419ef4dfb3_0",
+        "mj-gl:020:1b8f5585-5a2f-4c68-9977-75419ef4dfb3_1",
+        "mj-gl:020:1b8f5585-5a2f-4c68-9977-75419ef4dfb3_3",
+        "mj-gl:020:3371c2c2-1a29-46bc-b99d-5a872a538029_1",
+        "mj-gl:020:3371c2c2-1a29-46bc-b99d-5a872a538029_2",
+        "mj-gl:020:35330faf-380c-4366-8a7e-a78a0f1d588a_1",
+        "mj-gl:020:35330faf-380c-4366-8a7e-a78a0f1d588a_2",
+        "mj-gl:020:35330faf-380c-4366-8a7e-a78a0f1d588a_3"
+      ]
+    },
+    {
+      "id": "gl-character-022",
+      "label": "角色 22",
+      "sourceCharacterNumber": 22,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "蓬松及肩卷发",
+        "hairColor": "铜红色",
+        "eyeColor": "灰绿色",
+        "featureTags": [
+          "深棕邮差夹克、米色围巾"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:022:351d3b5a-2091-430f-8abb-5ff8038015f9_2",
+      "assetKeys": [
+        "mj-gl:022:351d3b5a-2091-430f-8abb-5ff8038015f9_2",
+        "mj-gl:022:351d3b5a-2091-430f-8abb-5ff8038015f9_3",
+        "mj-gl:022:7e17e307-28d4-4bdc-903a-2f4c80516def_0",
+        "mj-gl:022:7e17e307-28d4-4bdc-903a-2f4c80516def_1",
+        "mj-gl:022:7e17e307-28d4-4bdc-903a-2f4c80516def_2",
+        "mj-gl:022:7e17e307-28d4-4bdc-903a-2f4c80516def_3",
+        "mj-gl:022:dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_0",
+        "mj-gl:022:dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_1",
+        "mj-gl:022:dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_2",
+        "mj-gl:022:dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_3"
+      ]
+    },
+    {
+      "id": "gl-character-025",
+      "label": "角色 25",
+      "sourceCharacterNumber": 25,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "法式卷髻",
+        "hairColor": "巧克力棕色",
+        "eyeColor": "蓝灰色",
+        "featureTags": [
+          "象牙白档案员上衣、棕色宽腰带"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:025:05b08ed6-1905-44c5-be17-c50b79d2f1e7_0",
+      "assetKeys": [
+        "mj-gl:025:05b08ed6-1905-44c5-be17-c50b79d2f1e7_0",
+        "mj-gl:025:05b08ed6-1905-44c5-be17-c50b79d2f1e7_1",
+        "mj-gl:025:05b08ed6-1905-44c5-be17-c50b79d2f1e7_3",
+        "mj-gl:025:5416673a-3102-4f8d-84d7-7bc5879524df_0",
+        "mj-gl:025:5416673a-3102-4f8d-84d7-7bc5879524df_1",
+        "mj-gl:025:5416673a-3102-4f8d-84d7-7bc5879524df_2",
+        "mj-gl:025:d91a278b-797b-44ca-bdd6-a6477cd54ac2_0",
+        "mj-gl:025:d91a278b-797b-44ca-bdd6-a6477cd54ac2_1"
+      ]
+    },
+    {
+      "id": "gl-character-026",
+      "label": "角色 26",
+      "sourceCharacterNumber": 26,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "及肩羽毛层次发",
+        "hairColor": "沙金色",
+        "eyeColor": "橄榄色",
+        "featureTags": [
+          "赤陶色探险夹克、米白衬衣"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:026:ed2b6afc-7c04-43d6-95eb-6bf950ad71d2_3",
+      "assetKeys": [
+        "mj-gl:026:ed2b6afc-7c04-43d6-95eb-6bf950ad71d2_3",
+        "mj-gl:026:ed2be110-3263-4efb-ae88-97cbb7936ba2_0",
+        "mj-gl:026:ed2be110-3263-4efb-ae88-97cbb7936ba2_1"
+      ]
+    },
+    {
+      "id": "gl-character-027",
+      "label": "角色 27",
+      "sourceCharacterNumber": 27,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "长波浪发",
+        "hairColor": "黑色",
+        "eyeColor": "深棕色",
+        "featureTags": [
+          "珍珠灰礼服式长上衣、金色细腰链"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:027:3d0ef8ef-e273-4600-8e8b-2b0e5054f361_0",
+      "assetKeys": [
+        "mj-gl:027:3d0ef8ef-e273-4600-8e8b-2b0e5054f361_0",
+        "mj-gl:027:3d0ef8ef-e273-4600-8e8b-2b0e5054f361_1",
+        "mj-gl:027:3d0ef8ef-e273-4600-8e8b-2b0e5054f361_2",
+        "mj-gl:027:dcaa24d6-719e-43f6-9f89-1b3a8857d95a_0",
+        "mj-gl:027:dcaa24d6-719e-43f6-9f89-1b3a8857d95a_2",
+        "mj-gl:027:dcaa24d6-719e-43f6-9f89-1b3a8857d95a_3",
+        "mj-gl:027:e1e205a2-498a-4e32-8c01-ad5dc32b7998_0",
+        "mj-gl:027:e1e205a2-498a-4e32-8c01-ad5dc32b7998_1",
+        "mj-gl:027:e1e205a2-498a-4e32-8c01-ad5dc32b7998_2",
+        "mj-gl:027:e1e205a2-498a-4e32-8c01-ad5dc32b7998_3"
+      ]
+    },
+    {
+      "id": "gl-character-029",
+      "label": "角色 29",
+      "sourceCharacterNumber": 29,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "高蓬松卷马尾",
+        "hairColor": "肉桂棕色",
+        "eyeColor": "紫色",
+        "featureTags": [
+          "靛紫信使短外套、米色内搭"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:029:288a9968-cc3f-4983-a7b8-0077804af7ce_0",
+      "assetKeys": [
+        "mj-gl:029:288a9968-cc3f-4983-a7b8-0077804af7ce_0",
+        "mj-gl:029:288a9968-cc3f-4983-a7b8-0077804af7ce_1",
+        "mj-gl:029:288a9968-cc3f-4983-a7b8-0077804af7ce_2",
+        "mj-gl:029:288a9968-cc3f-4983-a7b8-0077804af7ce_3",
+        "mj-gl:029:9b1f4597-fe31-4ce2-8d6c-3148630507b9_0",
+        "mj-gl:029:9b1f4597-fe31-4ce2-8d6c-3148630507b9_1",
+        "mj-gl:029:9b1f4597-fe31-4ce2-8d6c-3148630507b9_2",
+        "mj-gl:029:9b1f4597-fe31-4ce2-8d6c-3148630507b9_3",
+        "mj-gl:029:ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_0",
+        "mj-gl:029:ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_1",
+        "mj-gl:029:ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_2",
+        "mj-gl:029:ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_3"
+      ]
+    },
+    {
+      "id": "gl-character-030",
+      "label": "角色 30",
+      "sourceCharacterNumber": 30,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "侧分下颌长波浪发",
+        "hairColor": "麦金色",
+        "eyeColor": "深绿色",
+        "featureTags": [
+          "棕红钟表匠上衣、金属小胸针"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:030:2ba54b55-7434-497a-aa04-80feeace7807_0",
+      "assetKeys": [
+        "mj-gl:030:2ba54b55-7434-497a-aa04-80feeace7807_0",
+        "mj-gl:030:2ba54b55-7434-497a-aa04-80feeace7807_3",
+        "mj-gl:030:7fd9031a-311a-4350-8955-381c9530b134_2",
+        "mj-gl:030:d41f54c7-3709-4024-9358-62b54c46afd5_0",
+        "mj-gl:030:d41f54c7-3709-4024-9358-62b54c46afd5_2"
+      ]
+    },
+    {
+      "id": "gl-character-031",
+      "label": "角色 31",
+      "sourceCharacterNumber": 31,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "长发双环髻",
+        "hairColor": "黑樱桃色",
+        "eyeColor": "茶金色",
+        "featureTags": [
+          "暖灰交领上衣、珊瑚色腰带"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:031:5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_0",
+      "assetKeys": [
+        "mj-gl:031:5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_0",
+        "mj-gl:031:5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_1",
+        "mj-gl:031:5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_2",
+        "mj-gl:031:5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_3",
+        "mj-gl:031:8bdab899-1c58-437b-9846-5f017a803ffd_0",
+        "mj-gl:031:8bdab899-1c58-437b-9846-5f017a803ffd_1",
+        "mj-gl:031:8bdab899-1c58-437b-9846-5f017a803ffd_2",
+        "mj-gl:031:8bdab899-1c58-437b-9846-5f017a803ffd_3",
+        "mj-gl:031:e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_0",
+        "mj-gl:031:e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_1",
+        "mj-gl:031:e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_2",
+        "mj-gl:031:e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_3"
+      ]
+    },
+    {
+      "id": "gl-character-033",
+      "label": "角色 33",
+      "sourceCharacterNumber": 33,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "齐肩直发、偏分长刘海",
+        "hairColor": "深铜棕色",
+        "eyeColor": "绿色",
+        "featureTags": [
+          "米黄航海员上衣、深红领巾"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:033:712e6867-09a7-48b2-a1e7-6ab8585a0eaf_0",
+      "assetKeys": [
+        "mj-gl:033:712e6867-09a7-48b2-a1e7-6ab8585a0eaf_0",
+        "mj-gl:033:81a7b529-af9e-4eb7-a960-64fcc5ac1205_0",
+        "mj-gl:033:81a7b529-af9e-4eb7-a960-64fcc5ac1205_3"
+      ]
+    },
+    {
+      "id": "gl-character-034",
+      "label": "角色 34",
+      "sourceCharacterNumber": 34,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "及腰螺旋卷发",
+        "hairColor": "金棕色",
+        "eyeColor": "琥珀色",
+        "featureTags": [
+          "墨绿珠宝师背心、象牙色泡袖"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:034:4e13effb-5ca0-4661-9041-c5335965b8c8_0",
+      "assetKeys": [
+        "mj-gl:034:4e13effb-5ca0-4661-9041-c5335965b8c8_0",
+        "mj-gl:034:4e13effb-5ca0-4661-9041-c5335965b8c8_3",
+        "mj-gl:034:e72055d8-3217-416c-bcaf-f12e9689d0fe_0"
+      ]
+    },
+    {
+      "id": "gl-character-035",
+      "label": "角色 35",
+      "sourceCharacterNumber": 35,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "长发法式盘卷",
+        "hairColor": "深紫黑色",
+        "eyeColor": "银灰色",
+        "featureTags": [
+          "铁灰仪仗外套、白色立领"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:035:1546beb6-b793-45c1-bdcf-7d119f57567b_1",
+      "assetKeys": [
+        "mj-gl:035:1546beb6-b793-45c1-bdcf-7d119f57567b_1",
+        "mj-gl:035:1546beb6-b793-45c1-bdcf-7d119f57567b_2",
+        "mj-gl:035:1546beb6-b793-45c1-bdcf-7d119f57567b_3",
+        "mj-gl:035:191dd9c6-6c96-4131-b517-7a2b5e0f230b_3",
+        "mj-gl:035:d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_0",
+        "mj-gl:035:d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_1",
+        "mj-gl:035:d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_3"
+      ]
+    },
+    {
+      "id": "gl-character-037",
+      "label": "角色 37",
+      "sourceCharacterNumber": 37,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "偏分长直发",
+        "hairColor": "杏金色",
+        "eyeColor": "棕红色",
+        "featureTags": [
+          "暗紫天文学者短斗篷、灰白衬衣"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:037:3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_1",
+      "assetKeys": [
+        "mj-gl:037:3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_1",
+        "mj-gl:037:3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_2",
+        "mj-gl:037:3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_3",
+        "mj-gl:037:3d2df073-ca7a-40d4-8093-22922aaa0566_0",
+        "mj-gl:037:3d2df073-ca7a-40d4-8093-22922aaa0566_1",
+        "mj-gl:037:3d2df073-ca7a-40d4-8093-22922aaa0566_2",
+        "mj-gl:037:3d2df073-ca7a-40d4-8093-22922aaa0566_3",
+        "mj-gl:037:6cc91c5e-9d62-4e31-b654-a7e1aa47fcd0_0",
+        "mj-gl:037:6cc91c5e-9d62-4e31-b654-a7e1aa47fcd0_1"
+      ]
+    },
+    {
+      "id": "gl-character-038",
+      "label": "角色 38",
+      "sourceCharacterNumber": 38,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "蓬松短卷发",
+        "hairColor": "黑棕色",
+        "eyeColor": "金棕色",
+        "featureTags": [
+          "青铜色工程师马甲、米黄高领"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:038:61d5b7ba-26a4-4210-b9d0-1f0547b34c33_2",
+      "assetKeys": [
+        "mj-gl:038:61d5b7ba-26a4-4210-b9d0-1f0547b34c33_2",
+        "mj-gl:038:8ec5f15e-1b4f-459b-8914-cd0cba137deb_0",
+        "mj-gl:038:e9864eef-0d88-476b-9f67-fa45d2c58696_0",
+        "mj-gl:038:e9864eef-0d88-476b-9f67-fa45d2c58696_1",
+        "mj-gl:038:e9864eef-0d88-476b-9f67-fa45d2c58696_2",
+        "mj-gl:038:e9864eef-0d88-476b-9f67-fa45d2c58696_3"
+      ]
+    },
+    {
+      "id": "gl-character-040",
+      "label": "角色 40",
+      "sourceCharacterNumber": 40,
+      "adultOnly": true,
+      "appearanceProfile": {
+        "visualAge": "青年感",
+        "hairStyle": "长发低结马尾、额前侧卷",
+        "hairColor": "深金色",
+        "eyeColor": "棕绿色",
+        "featureTags": [
+          "黑金音乐指挥外套、奶油领结"
+        ],
+        "adultConfirmed": true
+      },
+      "appearanceSource": "生成时的角色与动作安排；未重新进行逐图外貌标签审核",
+      "defaultPortraitAssetKey": "mj-gl:040:77ef0258-67b2-4987-ab3c-be24b63e980c_1",
+      "assetKeys": [
+        "mj-gl:040:77ef0258-67b2-4987-ab3c-be24b63e980c_1",
+        "mj-gl:040:fa9ce3d1-3487-41dc-9ae2-53203bfbdd47_3"
+      ]
+    }
+  ],
+  "assets": {
+    "mj-gl:001:1d1ebd80-2300-4eb6-b8ed-52ac032a6dda_1": {
+      "groupId": "gl-character-001",
+      "path": "portraits/001/1d1ebd80-2300-4eb6-b8ed-52ac032a6dda_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 208562,
+      "sha256": "93805e972885dd5a8ba6d76a1f62706012592bc1e0257b2f32fa29c392c5e1dc",
+      "originalPath": "originals/001/1d1ebd80-2300-4eb6-b8ed-52ac032a6dda_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1240361,
+      "originalSha256": "2514aadee1928e5842595d14f900c629155db228add3cd9c600fcca27110fdf5",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "1d1ebd80-2300-4eb6-b8ed-52ac032a6dda",
+        "index": 1
+      }
+    },
+    "mj-gl:001:1d1ebd80-2300-4eb6-b8ed-52ac032a6dda_3": {
+      "groupId": "gl-character-001",
+      "path": "portraits/001/1d1ebd80-2300-4eb6-b8ed-52ac032a6dda_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 223026,
+      "sha256": "1d3b8b3566d94e1f21f05e4ff5a2f0f6003a47933889afcf997995b7bc4dd369",
+      "originalPath": "originals/001/1d1ebd80-2300-4eb6-b8ed-52ac032a6dda_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1477452,
+      "originalSha256": "fed39014f8e859867764e92bd583a3b6bb34e6857fd19269fc5c54f62f7dd4b8",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "1d1ebd80-2300-4eb6-b8ed-52ac032a6dda",
+        "index": 3
+      }
+    },
+    "mj-gl:001:821a5d7d-ce96-4876-b230-9c0556c753c5_0": {
+      "groupId": "gl-character-001",
+      "path": "portraits/001/821a5d7d-ce96-4876-b230-9c0556c753c5_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 329282,
+      "sha256": "5962caccf48df0402e4c9a6fe85bff12a979fbd912820877bdd078696b703ded",
+      "originalPath": "originals/001/821a5d7d-ce96-4876-b230-9c0556c753c5_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 2072770,
+      "originalSha256": "5bd24218b5b88e5407f96fcff5c8c78556e0baa9236e1d409ab374b95bf275e6",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "821a5d7d-ce96-4876-b230-9c0556c753c5",
+        "index": 0
+      }
+    },
+    "mj-gl:001:821a5d7d-ce96-4876-b230-9c0556c753c5_1": {
+      "groupId": "gl-character-001",
+      "path": "portraits/001/821a5d7d-ce96-4876-b230-9c0556c753c5_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 284550,
+      "sha256": "b73aef020c5314730fe31aaf6a7f1a78a540df37a8054dafe8b6445e43b1c12f",
+      "originalPath": "originals/001/821a5d7d-ce96-4876-b230-9c0556c753c5_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1814717,
+      "originalSha256": "7d83fc2a0ac6f6b2ca522f3b07c45cc09228b0796d14d5670e2a67b65bc84130",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "821a5d7d-ce96-4876-b230-9c0556c753c5",
+        "index": 1
+      }
+    },
+    "mj-gl:001:821a5d7d-ce96-4876-b230-9c0556c753c5_2": {
+      "groupId": "gl-character-001",
+      "path": "portraits/001/821a5d7d-ce96-4876-b230-9c0556c753c5_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 264006,
+      "sha256": "01d35b66eb5aa60c24be2c9ff07c0c069ce90a6c925d304150e0cff97ef130ce",
+      "originalPath": "originals/001/821a5d7d-ce96-4876-b230-9c0556c753c5_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1788458,
+      "originalSha256": "cb772818bf3decc99ba94b43e7738d69cb9976e5739f987e8bc2d031e4b7e4af",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "821a5d7d-ce96-4876-b230-9c0556c753c5",
+        "index": 2
+      }
+    },
+    "mj-gl:001:821a5d7d-ce96-4876-b230-9c0556c753c5_3": {
+      "groupId": "gl-character-001",
+      "path": "portraits/001/821a5d7d-ce96-4876-b230-9c0556c753c5_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 249324,
+      "sha256": "7a0f6ecb809cc39621a42fc8f0b17c2a29a7e9b5131c4d459378de28aed22fc4",
+      "originalPath": "originals/001/821a5d7d-ce96-4876-b230-9c0556c753c5_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1675155,
+      "originalSha256": "5d606e8db0ac6a93cef4bb942c73f8a785439d5569a6a1ce7f3f1ea6e6af5a88",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "821a5d7d-ce96-4876-b230-9c0556c753c5",
+        "index": 3
+      }
+    },
+    "mj-gl:001:be8f2377-a15c-43e7-b646-54533cc2f900_0": {
+      "groupId": "gl-character-001",
+      "path": "portraits/001/be8f2377-a15c-43e7-b646-54533cc2f900_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 178158,
+      "sha256": "0ee8c7a7ed663059f269dacd6be81ab118f674fca63699d3f1d696698cf90250",
+      "originalPath": "originals/001/be8f2377-a15c-43e7-b646-54533cc2f900_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1347217,
+      "originalSha256": "ead9675f10aadf51f75975cc8aa7261da1ba22dfe62020dae0c0e2a2c09dbc1d",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "be8f2377-a15c-43e7-b646-54533cc2f900",
+        "index": 0
+      }
+    },
+    "mj-gl:002:2cd82192-9c28-4214-b3a1-48dea14c398a_0": {
+      "groupId": "gl-character-002",
+      "path": "portraits/002/2cd82192-9c28-4214-b3a1-48dea14c398a_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 225238,
+      "sha256": "d631ef20e400ada83c5e934ea57f86c34fe9a733d63cb3f96c5049593f0f39ba",
+      "originalPath": "originals/002/2cd82192-9c28-4214-b3a1-48dea14c398a_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1353225,
+      "originalSha256": "fb6cb56a4eff158039c5f0a886e173ef4f99d479ef88f505d496f23ea1cffde2",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "2cd82192-9c28-4214-b3a1-48dea14c398a",
+        "index": 0
+      }
+    },
+    "mj-gl:002:2cd82192-9c28-4214-b3a1-48dea14c398a_1": {
+      "groupId": "gl-character-002",
+      "path": "portraits/002/2cd82192-9c28-4214-b3a1-48dea14c398a_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 205008,
+      "sha256": "2b8bde8f02f82e1e8b26d6080eb657fe8600e4c4d87e1e5c2d1b972f0b34ac95",
+      "originalPath": "originals/002/2cd82192-9c28-4214-b3a1-48dea14c398a_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1120980,
+      "originalSha256": "2fb8e661e3644f11dd6055d7e1ce312993a3ce9f38f644c221987ccb589b752b",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "2cd82192-9c28-4214-b3a1-48dea14c398a",
+        "index": 1
+      }
+    },
+    "mj-gl:002:a1289f2b-4372-4523-ad77-0052d14e52b2_0": {
+      "groupId": "gl-character-002",
+      "path": "portraits/002/a1289f2b-4372-4523-ad77-0052d14e52b2_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 284420,
+      "sha256": "2ae3569a0d2a3ee43735610c745426203edb29ad3771df08273738a196bc094b",
+      "originalPath": "originals/002/a1289f2b-4372-4523-ad77-0052d14e52b2_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1983992,
+      "originalSha256": "67af78beb31de4137882be05ba3d5949cf98f4c47e8773cddae980e7a46b3721",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "a1289f2b-4372-4523-ad77-0052d14e52b2",
+        "index": 0
+      }
+    },
+    "mj-gl:002:a1289f2b-4372-4523-ad77-0052d14e52b2_1": {
+      "groupId": "gl-character-002",
+      "path": "portraits/002/a1289f2b-4372-4523-ad77-0052d14e52b2_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 244182,
+      "sha256": "2ee89cb2da1656ef341fb04c504614df8295cb7b3e423ba53987d8c6fcb99f14",
+      "originalPath": "originals/002/a1289f2b-4372-4523-ad77-0052d14e52b2_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1650241,
+      "originalSha256": "cb2434c959f34e0cda877cd3df56df517e4f8576e262236fdcec22b9163f33dc",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "a1289f2b-4372-4523-ad77-0052d14e52b2",
+        "index": 1
+      }
+    },
+    "mj-gl:002:a1289f2b-4372-4523-ad77-0052d14e52b2_2": {
+      "groupId": "gl-character-002",
+      "path": "portraits/002/a1289f2b-4372-4523-ad77-0052d14e52b2_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 236628,
+      "sha256": "f456694059454580781bce1080d16adb5e4b6fbab62b8c272032d10630a3b15c",
+      "originalPath": "originals/002/a1289f2b-4372-4523-ad77-0052d14e52b2_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1625466,
+      "originalSha256": "4e835b80e70771adbf03d06db05227437b29664a7b357677044efb82742de2cc",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "a1289f2b-4372-4523-ad77-0052d14e52b2",
+        "index": 2
+      }
+    },
+    "mj-gl:002:a1289f2b-4372-4523-ad77-0052d14e52b2_3": {
+      "groupId": "gl-character-002",
+      "path": "portraits/002/a1289f2b-4372-4523-ad77-0052d14e52b2_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 228790,
+      "sha256": "075558f997ed5303b79133ea1170697f9c6ca292c8e8f5bf754d115601706b6e",
+      "originalPath": "originals/002/a1289f2b-4372-4523-ad77-0052d14e52b2_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1596102,
+      "originalSha256": "51d9bd0a0d8232b7e080bd004a43592e3cbf9a06bdb6c65ea2d1744f827faa44",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "a1289f2b-4372-4523-ad77-0052d14e52b2",
+        "index": 3
+      }
+    },
+    "mj-gl:003:18bbc2b9-dd3a-4909-8c7c-f3af7cc50af4_2": {
+      "groupId": "gl-character-003",
+      "path": "portraits/003/18bbc2b9-dd3a-4909-8c7c-f3af7cc50af4_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 287250,
+      "sha256": "db7eeedab03f79d33c3806fdf7398c2dc0786880a9c1acc3ff98723204f3738b",
+      "originalPath": "originals/003/18bbc2b9-dd3a-4909-8c7c-f3af7cc50af4_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1618456,
+      "originalSha256": "7d832b79123ebf47e0428bae3ea35080f1ddf0c7169f8e63fc13573a88c474c7",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "18bbc2b9-dd3a-4909-8c7c-f3af7cc50af4",
+        "index": 2
+      }
+    },
+    "mj-gl:003:18bbc2b9-dd3a-4909-8c7c-f3af7cc50af4_3": {
+      "groupId": "gl-character-003",
+      "path": "portraits/003/18bbc2b9-dd3a-4909-8c7c-f3af7cc50af4_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 348526,
+      "sha256": "a1cb91fbdf3a493a3bb2c7c230e7537a1640cceb61ea2e86942504065bff1f0e",
+      "originalPath": "originals/003/18bbc2b9-dd3a-4909-8c7c-f3af7cc50af4_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1863101,
+      "originalSha256": "c2e8956d4fdc4e52d5b4a81b157fdc460be76f4d79d001dadf84e6c4032444b8",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "18bbc2b9-dd3a-4909-8c7c-f3af7cc50af4",
+        "index": 3
+      }
+    },
+    "mj-gl:003:27e092cc-a45b-4dba-a283-8b4a4bd44221_2": {
+      "groupId": "gl-character-003",
+      "path": "portraits/003/27e092cc-a45b-4dba-a283-8b4a4bd44221_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 294166,
+      "sha256": "6cc8bc44470b8d548b230fb4ff62b015bc272d1fb98946376d73df52e2591be9",
+      "originalPath": "originals/003/27e092cc-a45b-4dba-a283-8b4a4bd44221_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1550179,
+      "originalSha256": "03614fa8b72fe4f7d72b3aca868b1d27f26b770011f62dba38d915fdde04cae4",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "27e092cc-a45b-4dba-a283-8b4a4bd44221",
+        "index": 2
+      }
+    },
+    "mj-gl:003:4be9032c-883b-45d0-94fb-7f7acae97201_2": {
+      "groupId": "gl-character-003",
+      "path": "portraits/003/4be9032c-883b-45d0-94fb-7f7acae97201_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 326262,
+      "sha256": "2ee3ff3c11eca5ecf8df883d400019e01e4203cf50efd2d349cfa2979bb04354",
+      "originalPath": "originals/003/4be9032c-883b-45d0-94fb-7f7acae97201_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1604834,
+      "originalSha256": "9841acdecd59e466328f5961295e186d56d1cbb2d57c9cd8acacbb818360de15",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "4be9032c-883b-45d0-94fb-7f7acae97201",
+        "index": 2
+      }
+    },
+    "mj-gl:003:4be9032c-883b-45d0-94fb-7f7acae97201_3": {
+      "groupId": "gl-character-003",
+      "path": "portraits/003/4be9032c-883b-45d0-94fb-7f7acae97201_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 348866,
+      "sha256": "0d26df14f26e9d0ece6a844358397638b4d6c0137159a4ecf381129d6c1e050b",
+      "originalPath": "originals/003/4be9032c-883b-45d0-94fb-7f7acae97201_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1772711,
+      "originalSha256": "75ea79650962e10204f26416906ab358a436564da5d7ff53976ca41d063d07fb",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "4be9032c-883b-45d0-94fb-7f7acae97201",
+        "index": 3
+      }
+    },
+    "mj-gl:004:374c1866-6c54-4b08-a08b-e03283ca98e2_0": {
+      "groupId": "gl-character-004",
+      "path": "portraits/004/374c1866-6c54-4b08-a08b-e03283ca98e2_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 242978,
+      "sha256": "9a9e69ad6becadf6f6bb85f9f37fc0f711b452766c956f1f763f689c423e807c",
+      "originalPath": "originals/004/374c1866-6c54-4b08-a08b-e03283ca98e2_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1664719,
+      "originalSha256": "c81279b2abfd7deb82bf66c889f1f1f667241dd2674553a35e303d973f09a9b9",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "374c1866-6c54-4b08-a08b-e03283ca98e2",
+        "index": 0
+      }
+    },
+    "mj-gl:004:374c1866-6c54-4b08-a08b-e03283ca98e2_1": {
+      "groupId": "gl-character-004",
+      "path": "portraits/004/374c1866-6c54-4b08-a08b-e03283ca98e2_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 256034,
+      "sha256": "dd69a3647df73b2b54bf3698960f9e76ec6bb31385ea0fbf33ac52fc3e3efbeb",
+      "originalPath": "originals/004/374c1866-6c54-4b08-a08b-e03283ca98e2_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1497076,
+      "originalSha256": "28f691feb7f2e4f356622fe443f246c2d2c4852e4c3c5bd663a87ee1df7a5de4",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "374c1866-6c54-4b08-a08b-e03283ca98e2",
+        "index": 1
+      }
+    },
+    "mj-gl:004:374c1866-6c54-4b08-a08b-e03283ca98e2_3": {
+      "groupId": "gl-character-004",
+      "path": "portraits/004/374c1866-6c54-4b08-a08b-e03283ca98e2_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 267372,
+      "sha256": "0127c5d7c490e162014a520d87a182b5791511a105d8228fef43f8f80f6c02ef",
+      "originalPath": "originals/004/374c1866-6c54-4b08-a08b-e03283ca98e2_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1520317,
+      "originalSha256": "dc6116a0255d21afd0404ddc6e013b8d18f336673974003d38700360e72cddd3",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "374c1866-6c54-4b08-a08b-e03283ca98e2",
+        "index": 3
+      }
+    },
+    "mj-gl:004:e175950d-0d8e-45ff-8223-aeb9633309bc_0": {
+      "groupId": "gl-character-004",
+      "path": "portraits/004/e175950d-0d8e-45ff-8223-aeb9633309bc_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 279808,
+      "sha256": "a445eda40d25b21ff6993a001bcd82f2107d3c25ccf876e54c68137ffe23a4f5",
+      "originalPath": "originals/004/e175950d-0d8e-45ff-8223-aeb9633309bc_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1484031,
+      "originalSha256": "7ac186a1b79a81f1dd8bf7ac9d2895b3a220983b6cb7a3f41d23b641d6bd174c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e175950d-0d8e-45ff-8223-aeb9633309bc",
+        "index": 0
+      }
+    },
+    "mj-gl:004:e175950d-0d8e-45ff-8223-aeb9633309bc_1": {
+      "groupId": "gl-character-004",
+      "path": "portraits/004/e175950d-0d8e-45ff-8223-aeb9633309bc_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 245900,
+      "sha256": "855dc0b7eeecc0534c926cb000a42638d4fad23842497866330089e159a9e962",
+      "originalPath": "originals/004/e175950d-0d8e-45ff-8223-aeb9633309bc_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1403824,
+      "originalSha256": "d5cb8a83447a17948f954ea8c0d313dc632e625fd52d2cfd1e0cbfb107fc58cf",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e175950d-0d8e-45ff-8223-aeb9633309bc",
+        "index": 1
+      }
+    },
+    "mj-gl:004:e175950d-0d8e-45ff-8223-aeb9633309bc_3": {
+      "groupId": "gl-character-004",
+      "path": "portraits/004/e175950d-0d8e-45ff-8223-aeb9633309bc_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 337552,
+      "sha256": "3b46e2a2cd0940e94a1f62827ddc441ba79f1e8dde1b5145805b4c90907ccba1",
+      "originalPath": "originals/004/e175950d-0d8e-45ff-8223-aeb9633309bc_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1789078,
+      "originalSha256": "13e4b2374db4be976979de288069b857f9c3bc6b7fd6e2e87cfcd204087badfa",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e175950d-0d8e-45ff-8223-aeb9633309bc",
+        "index": 3
+      }
+    },
+    "mj-gl:004:f4873e72-785e-4472-8dba-a97ccba7100c_2": {
+      "groupId": "gl-character-004",
+      "path": "portraits/004/f4873e72-785e-4472-8dba-a97ccba7100c_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 253462,
+      "sha256": "a6199071124edb47a459db17fe60a153001731058c9d4ae5e6492ac2e357436d",
+      "originalPath": "originals/004/f4873e72-785e-4472-8dba-a97ccba7100c_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1564630,
+      "originalSha256": "a5343c21f16e12878eab091a49a0ed1b61eeff5bc8151e79c56086d1f87badef",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "f4873e72-785e-4472-8dba-a97ccba7100c",
+        "index": 2
+      }
+    },
+    "mj-gl:004:f4873e72-785e-4472-8dba-a97ccba7100c_3": {
+      "groupId": "gl-character-004",
+      "path": "portraits/004/f4873e72-785e-4472-8dba-a97ccba7100c_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 308438,
+      "sha256": "b67e6247c1ae901fe0aac2e94124ae794716b0cf34f7b3f934b9f665d54497cd",
+      "originalPath": "originals/004/f4873e72-785e-4472-8dba-a97ccba7100c_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1607810,
+      "originalSha256": "4ec408d85d98f7a850b86d476f6ea34caf785b91158d301a3310e9e1bcc87cc5",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "f4873e72-785e-4472-8dba-a97ccba7100c",
+        "index": 3
+      }
+    },
+    "mj-gl:005:6bc11bc6-fa8f-4295-8669-ba6fb24ba3bf_0": {
+      "groupId": "gl-character-005",
+      "path": "portraits/005/6bc11bc6-fa8f-4295-8669-ba6fb24ba3bf_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 314674,
+      "sha256": "36f4eedb7d6839a841b915da341f679c097ffc6a476c7db71b96d01fabd2a5da",
+      "originalPath": "originals/005/6bc11bc6-fa8f-4295-8669-ba6fb24ba3bf_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1621419,
+      "originalSha256": "d2e40e3fc13ef95ef02e4c3da154c9bac3e40301cb3ff84117cb4e3bb587836f",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "6bc11bc6-fa8f-4295-8669-ba6fb24ba3bf",
+        "index": 0
+      }
+    },
+    "mj-gl:005:6bc11bc6-fa8f-4295-8669-ba6fb24ba3bf_2": {
+      "groupId": "gl-character-005",
+      "path": "portraits/005/6bc11bc6-fa8f-4295-8669-ba6fb24ba3bf_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 326586,
+      "sha256": "f230886618d839d122a536ef680c3a283e92cd1c6c0bf3a92de0bbe1d6788873",
+      "originalPath": "originals/005/6bc11bc6-fa8f-4295-8669-ba6fb24ba3bf_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1716503,
+      "originalSha256": "3cccf93dea9760b1c9423842a7b774a7140dc9825b5101e405fc7d9b512a52dd",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "6bc11bc6-fa8f-4295-8669-ba6fb24ba3bf",
+        "index": 2
+      }
+    },
+    "mj-gl:005:a996eaac-9f3b-4a8e-a047-ae6b5cdc697e_2": {
+      "groupId": "gl-character-005",
+      "path": "portraits/005/a996eaac-9f3b-4a8e-a047-ae6b5cdc697e_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 285302,
+      "sha256": "6fb45193ef112af21e7368c638ba09b1d55ca3c16f4da938dc724c7697932fca",
+      "originalPath": "originals/005/a996eaac-9f3b-4a8e-a047-ae6b5cdc697e_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1647104,
+      "originalSha256": "d70e7f1618da97d409631145b183e34a9efb8b80b560b384e737ea3751305002",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "a996eaac-9f3b-4a8e-a047-ae6b5cdc697e",
+        "index": 2
+      }
+    },
+    "mj-gl:005:a996eaac-9f3b-4a8e-a047-ae6b5cdc697e_3": {
+      "groupId": "gl-character-005",
+      "path": "portraits/005/a996eaac-9f3b-4a8e-a047-ae6b5cdc697e_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 313930,
+      "sha256": "5bf49d683f40a3fee11cbf46171c58392edea30f9aff74452d897333c58f360b",
+      "originalPath": "originals/005/a996eaac-9f3b-4a8e-a047-ae6b5cdc697e_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1656288,
+      "originalSha256": "0c4e6c8243070ae88b1b29faf6857acba31e0317b32e38e9728db14a0ad26ea6",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "a996eaac-9f3b-4a8e-a047-ae6b5cdc697e",
+        "index": 3
+      }
+    },
+    "mj-gl:006:50947f8f-3ef3-4b92-9954-3a7c60a6565a_1": {
+      "groupId": "gl-character-006",
+      "path": "portraits/006/50947f8f-3ef3-4b92-9954-3a7c60a6565a_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 228256,
+      "sha256": "317fab6bedbe85f5a400f38910ded0a479427a8d99d480b2681f852a7aaf9d9a",
+      "originalPath": "originals/006/50947f8f-3ef3-4b92-9954-3a7c60a6565a_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1270900,
+      "originalSha256": "5b6cfdd064119d268202bae32164ec7439d22cc37607d78b1e110b0ba067544b",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "50947f8f-3ef3-4b92-9954-3a7c60a6565a",
+        "index": 1
+      }
+    },
+    "mj-gl:006:5861966b-d52b-403f-8dc0-da9ae5394d97_0": {
+      "groupId": "gl-character-006",
+      "path": "portraits/006/5861966b-d52b-403f-8dc0-da9ae5394d97_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 280850,
+      "sha256": "fc5fc6ad20a54d3e91acfd635798f2f464706c14a3aace0412a7a1a39f54a17e",
+      "originalPath": "originals/006/5861966b-d52b-403f-8dc0-da9ae5394d97_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1540986,
+      "originalSha256": "13dd86b42c69f4b13750f27fe2776ea498462c05a8b66e1c4a110226c78d9a1c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5861966b-d52b-403f-8dc0-da9ae5394d97",
+        "index": 0
+      }
+    },
+    "mj-gl:006:ac486938-c177-427c-828e-7121a2afab10_1": {
+      "groupId": "gl-character-006",
+      "path": "portraits/006/ac486938-c177-427c-828e-7121a2afab10_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 236910,
+      "sha256": "010cda7781ac353725bcbe580540eda8ab5be5f570e6a8a14d727eb208970774",
+      "originalPath": "originals/006/ac486938-c177-427c-828e-7121a2afab10_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1314493,
+      "originalSha256": "bf02b1ad1bc07c3be84d6ad2de0ea3375315ac2f694869bb351fa44035cce43c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "ac486938-c177-427c-828e-7121a2afab10",
+        "index": 1
+      }
+    },
+    "mj-gl:006:ac486938-c177-427c-828e-7121a2afab10_3": {
+      "groupId": "gl-character-006",
+      "path": "portraits/006/ac486938-c177-427c-828e-7121a2afab10_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 256028,
+      "sha256": "9263a3fffbce9c578570581cac918a63fddd1879aec2fb4205bc128572075f00",
+      "originalPath": "originals/006/ac486938-c177-427c-828e-7121a2afab10_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1543565,
+      "originalSha256": "09c4939f15338dc5fcd445adbc0685ac21ec404601cdc5829c08696ac39c714f",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "ac486938-c177-427c-828e-7121a2afab10",
+        "index": 3
+      }
+    },
+    "mj-gl:007:03f51c67-a322-4797-b3b4-4531db8d032b_0": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/03f51c67-a322-4797-b3b4-4531db8d032b_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 264158,
+      "sha256": "243c9e843354bbc15d289b1bc188cd4fe65b9a3ea5ff0ac576776bbf1d6d8934",
+      "originalPath": "originals/007/03f51c67-a322-4797-b3b4-4531db8d032b_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1388713,
+      "originalSha256": "535b43f923418db8e0a0d0d1571f86c21d0be5b1b51e38865bb662b6683a8675",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "03f51c67-a322-4797-b3b4-4531db8d032b",
+        "index": 0
+      }
+    },
+    "mj-gl:007:03f51c67-a322-4797-b3b4-4531db8d032b_1": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/03f51c67-a322-4797-b3b4-4531db8d032b_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 243454,
+      "sha256": "0e130487f77ceb863933a4500534a11a53552bcacaa55d8033189a9768bd07fc",
+      "originalPath": "originals/007/03f51c67-a322-4797-b3b4-4531db8d032b_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1383715,
+      "originalSha256": "2405df75258e3f84997109f9b60db49b026e20345b687569e67f41693a0ea754",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "03f51c67-a322-4797-b3b4-4531db8d032b",
+        "index": 1
+      }
+    },
+    "mj-gl:007:03f51c67-a322-4797-b3b4-4531db8d032b_2": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/03f51c67-a322-4797-b3b4-4531db8d032b_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 251940,
+      "sha256": "f26e03a2e0c0661822cdda17dcd0991e4faecd607f434d5082ae270b0801e3e1",
+      "originalPath": "originals/007/03f51c67-a322-4797-b3b4-4531db8d032b_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1553259,
+      "originalSha256": "45a4512464def9aa2eb8d99f495df964c8db50a8dbda7871305e534b8fe90522",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "03f51c67-a322-4797-b3b4-4531db8d032b",
+        "index": 2
+      }
+    },
+    "mj-gl:007:03f51c67-a322-4797-b3b4-4531db8d032b_3": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/03f51c67-a322-4797-b3b4-4531db8d032b_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 246384,
+      "sha256": "cd8170b1421d5e67aaaa88560bc820a484ef4f74ccdb261b32fe6bba6efd8661",
+      "originalPath": "originals/007/03f51c67-a322-4797-b3b4-4531db8d032b_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1368702,
+      "originalSha256": "4d874a7a5afe6465e4960293692f93db774c4861a5587e3c8fdec2d4d89c5375",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "03f51c67-a322-4797-b3b4-4531db8d032b",
+        "index": 3
+      }
+    },
+    "mj-gl:007:4d5471d8-901e-4631-906b-3ffcd3e342ca_0": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/4d5471d8-901e-4631-906b-3ffcd3e342ca_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 209790,
+      "sha256": "b0d55f36715b03b302c75609cced19f794d4b47aedb557abb708f841676bbdf1",
+      "originalPath": "originals/007/4d5471d8-901e-4631-906b-3ffcd3e342ca_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1158208,
+      "originalSha256": "88a858fd6fdca62407c794f0a53713536f47a9b0512db449addf549762b2e037",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "4d5471d8-901e-4631-906b-3ffcd3e342ca",
+        "index": 0
+      }
+    },
+    "mj-gl:007:4d5471d8-901e-4631-906b-3ffcd3e342ca_1": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/4d5471d8-901e-4631-906b-3ffcd3e342ca_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 220812,
+      "sha256": "1a2ef7d1598fd4170e407cc3b9162773851fb9a8f13e77af9e77a988f7b1e13f",
+      "originalPath": "originals/007/4d5471d8-901e-4631-906b-3ffcd3e342ca_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1192848,
+      "originalSha256": "95e93749ae0272e5c1aab0a906aca84078db4214a5a7c7a3d6dd6bdbc44bac41",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "4d5471d8-901e-4631-906b-3ffcd3e342ca",
+        "index": 1
+      }
+    },
+    "mj-gl:007:4d5471d8-901e-4631-906b-3ffcd3e342ca_2": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/4d5471d8-901e-4631-906b-3ffcd3e342ca_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 210136,
+      "sha256": "7e2d08826bc6ec6d1c467284d92e06e6596f049c105e1501e2d630cf19df1144",
+      "originalPath": "originals/007/4d5471d8-901e-4631-906b-3ffcd3e342ca_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1228279,
+      "originalSha256": "e8ec3274526e8ff4bbbb475801e54955d5ce675fbe0221d142202609063cf9f0",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "4d5471d8-901e-4631-906b-3ffcd3e342ca",
+        "index": 2
+      }
+    },
+    "mj-gl:007:4d5471d8-901e-4631-906b-3ffcd3e342ca_3": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/4d5471d8-901e-4631-906b-3ffcd3e342ca_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 219676,
+      "sha256": "26fef13721a5b882d98effc3ce12b82916f3c1b3f4f879ae289ecf8b09467fa3",
+      "originalPath": "originals/007/4d5471d8-901e-4631-906b-3ffcd3e342ca_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1193123,
+      "originalSha256": "8aba685596335ced139ac507fff78454de8219d04a25947a8deb4f6f2b6c9ec4",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "4d5471d8-901e-4631-906b-3ffcd3e342ca",
+        "index": 3
+      }
+    },
+    "mj-gl:007:55bb3841-2a46-452c-b12e-7676d146b0e8_0": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/55bb3841-2a46-452c-b12e-7676d146b0e8_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 237826,
+      "sha256": "4dd8341cb51dd03a76f0fffb7fac29a495efb99a54d76cad067fe2ef46697222",
+      "originalPath": "originals/007/55bb3841-2a46-452c-b12e-7676d146b0e8_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1451583,
+      "originalSha256": "53b1d6e12cdc43c3ba3221d3323852861dcf6023b68af31018af2e6bdd7e7f81",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "55bb3841-2a46-452c-b12e-7676d146b0e8",
+        "index": 0
+      }
+    },
+    "mj-gl:007:55bb3841-2a46-452c-b12e-7676d146b0e8_1": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/55bb3841-2a46-452c-b12e-7676d146b0e8_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 258498,
+      "sha256": "ae273a9e5416bd1eb91dc6c15924792bf38a569df6a2612893d4721af0c1f4de",
+      "originalPath": "originals/007/55bb3841-2a46-452c-b12e-7676d146b0e8_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1407223,
+      "originalSha256": "b37a0d3c2c617e58db10fac286826a98008b64f2a885d8c06768fe8166091047",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "55bb3841-2a46-452c-b12e-7676d146b0e8",
+        "index": 1
+      }
+    },
+    "mj-gl:007:55bb3841-2a46-452c-b12e-7676d146b0e8_2": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/55bb3841-2a46-452c-b12e-7676d146b0e8_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 213298,
+      "sha256": "01b25ef2eb0d39bbb7a3cd7ca62be370a4092bcecf5a6db4740234fb3236d009",
+      "originalPath": "originals/007/55bb3841-2a46-452c-b12e-7676d146b0e8_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1155336,
+      "originalSha256": "a8eb5c4d9949ff84b90575b416c89c9e144d95b9264dd22436923695f905d016",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "55bb3841-2a46-452c-b12e-7676d146b0e8",
+        "index": 2
+      }
+    },
+    "mj-gl:007:55bb3841-2a46-452c-b12e-7676d146b0e8_3": {
+      "groupId": "gl-character-007",
+      "path": "portraits/007/55bb3841-2a46-452c-b12e-7676d146b0e8_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 259112,
+      "sha256": "5b631d4baac20cffa9a3fa3cabd1a7ed35be98c5657655563e90f80fb1221a46",
+      "originalPath": "originals/007/55bb3841-2a46-452c-b12e-7676d146b0e8_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1521352,
+      "originalSha256": "c00fe7a93f4e4684b14e1168c6967efadd3ba858daf60094bccd63a4d776d87d",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "55bb3841-2a46-452c-b12e-7676d146b0e8",
+        "index": 3
+      }
+    },
+    "mj-gl:008:420e5091-0af3-4650-85f5-2ccdb8eac827_1": {
+      "groupId": "gl-character-008",
+      "path": "portraits/008/420e5091-0af3-4650-85f5-2ccdb8eac827_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 268884,
+      "sha256": "8da4739014f67b661f44b821be49dc69de5eff423cd76044943c540517cfbc85",
+      "originalPath": "originals/008/420e5091-0af3-4650-85f5-2ccdb8eac827_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1703090,
+      "originalSha256": "81c37f1b19c76145be81384886873ba09b45718b752b0c144af4b425ad4ae585",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "420e5091-0af3-4650-85f5-2ccdb8eac827",
+        "index": 1
+      }
+    },
+    "mj-gl:008:e97c08b0-4403-45f4-a0dd-ab2116dfa84e_0": {
+      "groupId": "gl-character-008",
+      "path": "portraits/008/e97c08b0-4403-45f4-a0dd-ab2116dfa84e_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 311660,
+      "sha256": "c3cbc8db0bef5ada97425fc864250428e39a12886d2357da8d0afd9d5e114b1a",
+      "originalPath": "originals/008/e97c08b0-4403-45f4-a0dd-ab2116dfa84e_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1790607,
+      "originalSha256": "b932a72a84ac21363911c4b6126283a9a59393876a84ed177b8be74322dbf555",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e97c08b0-4403-45f4-a0dd-ab2116dfa84e",
+        "index": 0
+      }
+    },
+    "mj-gl:008:e97c08b0-4403-45f4-a0dd-ab2116dfa84e_1": {
+      "groupId": "gl-character-008",
+      "path": "portraits/008/e97c08b0-4403-45f4-a0dd-ab2116dfa84e_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 287780,
+      "sha256": "cb65b802bb91cbbe0ac9ce533ae05085b619ad1aaa6e04e00be4752f941a88b3",
+      "originalPath": "originals/008/e97c08b0-4403-45f4-a0dd-ab2116dfa84e_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1555745,
+      "originalSha256": "172ccee5bd852d0fb1a3cf5b5f8ab23ac366354944b0e3298e6ea29ebd72ae73",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e97c08b0-4403-45f4-a0dd-ab2116dfa84e",
+        "index": 1
+      }
+    },
+    "mj-gl:008:e97c08b0-4403-45f4-a0dd-ab2116dfa84e_3": {
+      "groupId": "gl-character-008",
+      "path": "portraits/008/e97c08b0-4403-45f4-a0dd-ab2116dfa84e_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 334828,
+      "sha256": "16d0e9b64973a48badb7ac85b46a05126d34e4ce408555000f1c0af2dd82d3ab",
+      "originalPath": "originals/008/e97c08b0-4403-45f4-a0dd-ab2116dfa84e_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1902408,
+      "originalSha256": "24aedb7da55e0f34c6154bd6f2fcc1d7b6054d2f902d3f435bdca031764b4373",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e97c08b0-4403-45f4-a0dd-ab2116dfa84e",
+        "index": 3
+      }
+    },
+    "mj-gl:009:0c444aff-7d83-435e-8f66-c40eae9fef67_0": {
+      "groupId": "gl-character-009",
+      "path": "portraits/009/0c444aff-7d83-435e-8f66-c40eae9fef67_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 215246,
+      "sha256": "d0b08efc080ec62a24c4eec644d8545402f9a1045b29e4f5358c6499c29c2177",
+      "originalPath": "originals/009/0c444aff-7d83-435e-8f66-c40eae9fef67_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1175493,
+      "originalSha256": "156c5f639ef242c478def2fd5c7538fedef6444d932b9f348e8dbbdb030d838f",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "0c444aff-7d83-435e-8f66-c40eae9fef67",
+        "index": 0
+      }
+    },
+    "mj-gl:009:0c444aff-7d83-435e-8f66-c40eae9fef67_1": {
+      "groupId": "gl-character-009",
+      "path": "portraits/009/0c444aff-7d83-435e-8f66-c40eae9fef67_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 252294,
+      "sha256": "7071ac7f90748afcc4342b8dced251c24e84742b60569130fb99e98ce1e7471d",
+      "originalPath": "originals/009/0c444aff-7d83-435e-8f66-c40eae9fef67_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1417184,
+      "originalSha256": "04a1f9aecee2309dc2a419e767f62720ccb81266c9bd07dec135cee1b5ff989c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "0c444aff-7d83-435e-8f66-c40eae9fef67",
+        "index": 1
+      }
+    },
+    "mj-gl:009:0c444aff-7d83-435e-8f66-c40eae9fef67_2": {
+      "groupId": "gl-character-009",
+      "path": "portraits/009/0c444aff-7d83-435e-8f66-c40eae9fef67_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 231570,
+      "sha256": "a20530ee037cd4f794cb652c0f001474ffde685eb7e231eb53b5153e522dbd67",
+      "originalPath": "originals/009/0c444aff-7d83-435e-8f66-c40eae9fef67_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1405681,
+      "originalSha256": "8dd12d2dc925ef4ff373eae50c35cc41402f11df8e68142ec8ae5fe201fb56d2",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "0c444aff-7d83-435e-8f66-c40eae9fef67",
+        "index": 2
+      }
+    },
+    "mj-gl:009:0c444aff-7d83-435e-8f66-c40eae9fef67_3": {
+      "groupId": "gl-character-009",
+      "path": "portraits/009/0c444aff-7d83-435e-8f66-c40eae9fef67_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 248996,
+      "sha256": "f5268b1e595ed7f31f7f5ff53c52a41bfbf349f568ea7d9ab5934a3410a9fb4c",
+      "originalPath": "originals/009/0c444aff-7d83-435e-8f66-c40eae9fef67_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1432562,
+      "originalSha256": "20fa9d011d2155697226dc5d87c9472e29800689d1f8b3666047936493ca8244",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "0c444aff-7d83-435e-8f66-c40eae9fef67",
+        "index": 3
+      }
+    },
+    "mj-gl:009:ae928510-a5eb-4338-b6c1-b1b5fb5d20d5_1": {
+      "groupId": "gl-character-009",
+      "path": "portraits/009/ae928510-a5eb-4338-b6c1-b1b5fb5d20d5_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 308448,
+      "sha256": "aaa2859e10bf8dd4a33afabca031c6a9f3c5d2d50688600c29836b7ba0f76575",
+      "originalPath": "originals/009/ae928510-a5eb-4338-b6c1-b1b5fb5d20d5_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1564565,
+      "originalSha256": "405e3e482a48ba67baf8129c43ea26ed34947f9f00dd250d55f9b2f68e2895b9",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "ae928510-a5eb-4338-b6c1-b1b5fb5d20d5",
+        "index": 1
+      }
+    },
+    "mj-gl:009:ae928510-a5eb-4338-b6c1-b1b5fb5d20d5_3": {
+      "groupId": "gl-character-009",
+      "path": "portraits/009/ae928510-a5eb-4338-b6c1-b1b5fb5d20d5_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 244208,
+      "sha256": "bc28dc74941f39b2cb1d5e1a33f5225bea9795a9f92d72f738abe5b813af28b7",
+      "originalPath": "originals/009/ae928510-a5eb-4338-b6c1-b1b5fb5d20d5_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1469939,
+      "originalSha256": "ac1cc68de8ca7e32906cba2541fef7310c31902dd64cd9c0b7c1a3a86b108593",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "ae928510-a5eb-4338-b6c1-b1b5fb5d20d5",
+        "index": 3
+      }
+    },
+    "mj-gl:009:f7007b22-be95-498c-a258-45253e4e4a3f_0": {
+      "groupId": "gl-character-009",
+      "path": "portraits/009/f7007b22-be95-498c-a258-45253e4e4a3f_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 217846,
+      "sha256": "901a51b9a20beab078f1844bb32ac501a847aba0f145a76d004298d3051181d1",
+      "originalPath": "originals/009/f7007b22-be95-498c-a258-45253e4e4a3f_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1168145,
+      "originalSha256": "92ddd39af3fae325fa7c058939b4747b1447e56c0a54d93409ab8124c7404c97",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "f7007b22-be95-498c-a258-45253e4e4a3f",
+        "index": 0
+      }
+    },
+    "mj-gl:009:f7007b22-be95-498c-a258-45253e4e4a3f_2": {
+      "groupId": "gl-character-009",
+      "path": "portraits/009/f7007b22-be95-498c-a258-45253e4e4a3f_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 251154,
+      "sha256": "dd33adfef901cb987ca537d5efd707cd0b4ee20fd77bb72bf71317537e873881",
+      "originalPath": "originals/009/f7007b22-be95-498c-a258-45253e4e4a3f_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1251245,
+      "originalSha256": "241e05e487e67432aeb3e5d7c645e6f0e0f3523228a9947f2e6b8cd13d65e6bd",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "f7007b22-be95-498c-a258-45253e4e4a3f",
+        "index": 2
+      }
+    },
+    "mj-gl:010:15173b79-ad26-4447-9ffb-725e2228b859_0": {
+      "groupId": "gl-character-010",
+      "path": "portraits/010/15173b79-ad26-4447-9ffb-725e2228b859_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 227548,
+      "sha256": "50d6b53f471dc91823d86c3b8e313f41639af29ed567cf620230a59831b8b103",
+      "originalPath": "originals/010/15173b79-ad26-4447-9ffb-725e2228b859_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1275524,
+      "originalSha256": "ca3316c41553283eb9dde47b0945d1f54030a5fac5a7b830ab81912f17351fb3",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "15173b79-ad26-4447-9ffb-725e2228b859",
+        "index": 0
+      }
+    },
+    "mj-gl:010:15173b79-ad26-4447-9ffb-725e2228b859_2": {
+      "groupId": "gl-character-010",
+      "path": "portraits/010/15173b79-ad26-4447-9ffb-725e2228b859_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 328366,
+      "sha256": "c99d8e56e08f9c9f8d7647d3bd8925ecd44d53979f862ff676a81fae9dfa60e2",
+      "originalPath": "originals/010/15173b79-ad26-4447-9ffb-725e2228b859_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1859965,
+      "originalSha256": "5caf1f66b4518202d225e9ea3d02bf96be0d39a5b38c4269cf49a3bdc9763bf9",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "15173b79-ad26-4447-9ffb-725e2228b859",
+        "index": 2
+      }
+    },
+    "mj-gl:010:376ddf25-7d20-4339-b432-9604d5dc24f3_0": {
+      "groupId": "gl-character-010",
+      "path": "portraits/010/376ddf25-7d20-4339-b432-9604d5dc24f3_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 250590,
+      "sha256": "1ee4107f88b9dafd9ec02048741ac7f7eb249b2629ff6c40d00bbabc4e6dc82e",
+      "originalPath": "originals/010/376ddf25-7d20-4339-b432-9604d5dc24f3_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1291050,
+      "originalSha256": "338b98d51f03326c5c63938eb70bf53dc222e573aa2437d22b593908b039fcaa",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "376ddf25-7d20-4339-b432-9604d5dc24f3",
+        "index": 0
+      }
+    },
+    "mj-gl:010:376ddf25-7d20-4339-b432-9604d5dc24f3_1": {
+      "groupId": "gl-character-010",
+      "path": "portraits/010/376ddf25-7d20-4339-b432-9604d5dc24f3_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 241770,
+      "sha256": "6f9fc05958083524f8de800b4b5af8564218080cc5532d0408160aedc91ffc12",
+      "originalPath": "originals/010/376ddf25-7d20-4339-b432-9604d5dc24f3_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1390699,
+      "originalSha256": "876537ea5d6a644db88fed0127fa5d102c96226ad89edc54ebd8f611877c02bf",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "376ddf25-7d20-4339-b432-9604d5dc24f3",
+        "index": 1
+      }
+    },
+    "mj-gl:010:376ddf25-7d20-4339-b432-9604d5dc24f3_2": {
+      "groupId": "gl-character-010",
+      "path": "portraits/010/376ddf25-7d20-4339-b432-9604d5dc24f3_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 262522,
+      "sha256": "2a71a7c81017e5a0abfb64446cd77a0223f59469bc8c3142ee8ba0786821266b",
+      "originalPath": "originals/010/376ddf25-7d20-4339-b432-9604d5dc24f3_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1619047,
+      "originalSha256": "2593691e5472835e86a606c5ab47d7dff559b3344bfdb2434108733f2306b607",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "376ddf25-7d20-4339-b432-9604d5dc24f3",
+        "index": 2
+      }
+    },
+    "mj-gl:010:376ddf25-7d20-4339-b432-9604d5dc24f3_3": {
+      "groupId": "gl-character-010",
+      "path": "portraits/010/376ddf25-7d20-4339-b432-9604d5dc24f3_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 230162,
+      "sha256": "e6ea38dcfb410ef89d261ff033396e5313e797e590528a6f38bc3d1e07b9ff6f",
+      "originalPath": "originals/010/376ddf25-7d20-4339-b432-9604d5dc24f3_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1375946,
+      "originalSha256": "b16a4b1599641124ebdc67be0683603d63c7e4d2eb583101b8ae7257c036f0bf",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "376ddf25-7d20-4339-b432-9604d5dc24f3",
+        "index": 3
+      }
+    },
+    "mj-gl:010:990ef78c-9492-41d1-977f-b82201fc9bcf_2": {
+      "groupId": "gl-character-010",
+      "path": "portraits/010/990ef78c-9492-41d1-977f-b82201fc9bcf_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 263346,
+      "sha256": "5dfdd4adc9d08d5984b9d799ef0a5e32b922e388a97834533322a90b639f8fa1",
+      "originalPath": "originals/010/990ef78c-9492-41d1-977f-b82201fc9bcf_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1405697,
+      "originalSha256": "dcd10ff036aaef3617f5c75d5f0b88d80dad465411ec5d1b39927338f5dba6a0",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "990ef78c-9492-41d1-977f-b82201fc9bcf",
+        "index": 2
+      }
+    },
+    "mj-gl:011:9faefa6f-babc-4e2d-a039-33b1f092d964_3": {
+      "groupId": "gl-character-011",
+      "path": "portraits/011/9faefa6f-babc-4e2d-a039-33b1f092d964_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 264888,
+      "sha256": "1139d8b958cc01b3ac8f2925dbecf2e00d2b9b25d993d299f0b6a874f1945f80",
+      "originalPath": "originals/011/9faefa6f-babc-4e2d-a039-33b1f092d964_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1553134,
+      "originalSha256": "570dd99b881a61b5eaa37629d480457ac8f29647d5e17924991922577dd8d27b",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "9faefa6f-babc-4e2d-a039-33b1f092d964",
+        "index": 3
+      }
+    },
+    "mj-gl:011:b1b19173-fca5-4070-b2f2-b84dd27c6a86_1": {
+      "groupId": "gl-character-011",
+      "path": "portraits/011/b1b19173-fca5-4070-b2f2-b84dd27c6a86_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 308488,
+      "sha256": "679bf7c40b5f8e2ae1518aad8ebbd4a6df115425509f29dfc2cc05efb6a87f13",
+      "originalPath": "originals/011/b1b19173-fca5-4070-b2f2-b84dd27c6a86_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1622006,
+      "originalSha256": "2256f8eca2073a30e7dd317eee58af2cbf8e67cd2824b46202f32f566ac59207",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "b1b19173-fca5-4070-b2f2-b84dd27c6a86",
+        "index": 1
+      }
+    },
+    "mj-gl:011:b1b19173-fca5-4070-b2f2-b84dd27c6a86_2": {
+      "groupId": "gl-character-011",
+      "path": "portraits/011/b1b19173-fca5-4070-b2f2-b84dd27c6a86_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 317594,
+      "sha256": "02dcb6548d4fc9424838f5d0c067c4aac0ea59642d6e1c768a2f5b910bc1e1e6",
+      "originalPath": "originals/011/b1b19173-fca5-4070-b2f2-b84dd27c6a86_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1803902,
+      "originalSha256": "151a23f13f5e09e90a62550dece9e00d9829660a2f827777c0ed1503a71a446c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "b1b19173-fca5-4070-b2f2-b84dd27c6a86",
+        "index": 2
+      }
+    },
+    "mj-gl:012:547daf9b-d8d7-430b-ba63-fe147810cb8c_1": {
+      "groupId": "gl-character-012",
+      "path": "portraits/012/547daf9b-d8d7-430b-ba63-fe147810cb8c_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 219874,
+      "sha256": "7dd7d1f1e046445205e79b733a7bec678d9116310ce0da863429df9f9a58bb89",
+      "originalPath": "originals/012/547daf9b-d8d7-430b-ba63-fe147810cb8c_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1348906,
+      "originalSha256": "5f3ebd790fbafd1708d4091868f019869783bc631e1c19f492a8c5cfcea67abf",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "547daf9b-d8d7-430b-ba63-fe147810cb8c",
+        "index": 1
+      }
+    },
+    "mj-gl:012:6419cab6-d461-4296-92f4-fd5415c28426_0": {
+      "groupId": "gl-character-012",
+      "path": "portraits/012/6419cab6-d461-4296-92f4-fd5415c28426_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 218334,
+      "sha256": "51495f44f6410ecb36681965eff60524bdbf2327d6bab70a1516d009431becab",
+      "originalPath": "originals/012/6419cab6-d461-4296-92f4-fd5415c28426_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1272300,
+      "originalSha256": "f4bc67c377aaec043414b340d1b09e812848864ba76b6f975f9d3bf8972b9db7",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "6419cab6-d461-4296-92f4-fd5415c28426",
+        "index": 0
+      }
+    },
+    "mj-gl:012:6419cab6-d461-4296-92f4-fd5415c28426_1": {
+      "groupId": "gl-character-012",
+      "path": "portraits/012/6419cab6-d461-4296-92f4-fd5415c28426_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 219678,
+      "sha256": "c96d1a19c370aed1119536f45d881033d4fb6c192f7e29327a0d4011ae673dd9",
+      "originalPath": "originals/012/6419cab6-d461-4296-92f4-fd5415c28426_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1281814,
+      "originalSha256": "65a942a4ee52d300b9a83d4f08f832f2cfa86773ad5d7f6f81b22eac3c099274",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "6419cab6-d461-4296-92f4-fd5415c28426",
+        "index": 1
+      }
+    },
+    "mj-gl:012:6419cab6-d461-4296-92f4-fd5415c28426_3": {
+      "groupId": "gl-character-012",
+      "path": "portraits/012/6419cab6-d461-4296-92f4-fd5415c28426_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 292448,
+      "sha256": "817a5a0fbada47f8f61425b0811c1a34d609bdea69e9e2c4283987c62940ac2c",
+      "originalPath": "originals/012/6419cab6-d461-4296-92f4-fd5415c28426_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1680797,
+      "originalSha256": "d7693727a4212f73ca11589dfe18a76605a3ba0f0a75f2a8c3d1186c435de1e1",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "6419cab6-d461-4296-92f4-fd5415c28426",
+        "index": 3
+      }
+    },
+    "mj-gl:012:c3bdd14d-acbf-482d-ac20-6f47dfc59404_0": {
+      "groupId": "gl-character-012",
+      "path": "portraits/012/c3bdd14d-acbf-482d-ac20-6f47dfc59404_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 195364,
+      "sha256": "e58b3130aac169a8f87d7eccbd31bdeb97f95230e1ea305f1996a521dc740e8e",
+      "originalPath": "originals/012/c3bdd14d-acbf-482d-ac20-6f47dfc59404_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1192812,
+      "originalSha256": "7151c2601d9bb9d12dab224083679e384d0eb2268c34abc33f3d72e69f5e8fd3",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "c3bdd14d-acbf-482d-ac20-6f47dfc59404",
+        "index": 0
+      }
+    },
+    "mj-gl:012:c3bdd14d-acbf-482d-ac20-6f47dfc59404_1": {
+      "groupId": "gl-character-012",
+      "path": "portraits/012/c3bdd14d-acbf-482d-ac20-6f47dfc59404_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 254600,
+      "sha256": "2e442761e19430941c562e2944ec73fef9b98e04c295d39c160cdfe7430f908b",
+      "originalPath": "originals/012/c3bdd14d-acbf-482d-ac20-6f47dfc59404_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1538719,
+      "originalSha256": "c923da7411722a6fb333c6ec473173b753b414e6f0149c930e6c5492d0f8eee1",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "c3bdd14d-acbf-482d-ac20-6f47dfc59404",
+        "index": 1
+      }
+    },
+    "mj-gl:012:c3bdd14d-acbf-482d-ac20-6f47dfc59404_2": {
+      "groupId": "gl-character-012",
+      "path": "portraits/012/c3bdd14d-acbf-482d-ac20-6f47dfc59404_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 192720,
+      "sha256": "474f0dd5f4805d58fbe8954598af270d0722c0081d4c74258299fe1b63dfa5bc",
+      "originalPath": "originals/012/c3bdd14d-acbf-482d-ac20-6f47dfc59404_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1243119,
+      "originalSha256": "71c7c5c0727723eb1a9625e3a1c0debfba76272c13bea716ca28f5a00e4ab07d",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "c3bdd14d-acbf-482d-ac20-6f47dfc59404",
+        "index": 2
+      }
+    },
+    "mj-gl:013:1f59872d-b7ef-40f8-a8de-7f2519ea708e_1": {
+      "groupId": "gl-character-013",
+      "path": "portraits/013/1f59872d-b7ef-40f8-a8de-7f2519ea708e_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 263726,
+      "sha256": "94658268e48b0a095f458c172a0f3192251afc859b391d88a1544248226c56db",
+      "originalPath": "originals/013/1f59872d-b7ef-40f8-a8de-7f2519ea708e_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1475285,
+      "originalSha256": "9972e7758e106b36cacaa92670646a2540387e6ae638b0650e509fb37b79dba2",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "1f59872d-b7ef-40f8-a8de-7f2519ea708e",
+        "index": 1
+      }
+    },
+    "mj-gl:013:1f59872d-b7ef-40f8-a8de-7f2519ea708e_2": {
+      "groupId": "gl-character-013",
+      "path": "portraits/013/1f59872d-b7ef-40f8-a8de-7f2519ea708e_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 252116,
+      "sha256": "7a6f7f56d5e24e500eac98b006eabfe3b4ae5f523a24ecbaf3baaaea5120af69",
+      "originalPath": "originals/013/1f59872d-b7ef-40f8-a8de-7f2519ea708e_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1430972,
+      "originalSha256": "55959860d24483de0a7d6995ca2c0808b82872a3485dbd5ff5de95d54f755e73",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "1f59872d-b7ef-40f8-a8de-7f2519ea708e",
+        "index": 2
+      }
+    },
+    "mj-gl:013:a7ba2489-f38f-47a4-958f-6d1ad0de1219_0": {
+      "groupId": "gl-character-013",
+      "path": "portraits/013/a7ba2489-f38f-47a4-958f-6d1ad0de1219_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 226736,
+      "sha256": "fc0b03ff612597158e4e1f98609d9b7d58520d1af2686a6a17a908cfc99a3e0e",
+      "originalPath": "originals/013/a7ba2489-f38f-47a4-958f-6d1ad0de1219_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1357932,
+      "originalSha256": "67b5166dcdad4ad6e8de0e0daaefafc48f330312c9ad17f0ea066f1b63a3ad35",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "a7ba2489-f38f-47a4-958f-6d1ad0de1219",
+        "index": 0
+      }
+    },
+    "mj-gl:013:a7ba2489-f38f-47a4-958f-6d1ad0de1219_1": {
+      "groupId": "gl-character-013",
+      "path": "portraits/013/a7ba2489-f38f-47a4-958f-6d1ad0de1219_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 257448,
+      "sha256": "9cba06f2c3e7913b49fd0d8fa65eb168a5ad6313dd3c2f01defec009a98c78be",
+      "originalPath": "originals/013/a7ba2489-f38f-47a4-958f-6d1ad0de1219_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1445128,
+      "originalSha256": "ac7cb6070e9e1b5ab42e23e4588de65967afe57c56a671be48a0bafe87d37f0f",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "a7ba2489-f38f-47a4-958f-6d1ad0de1219",
+        "index": 1
+      }
+    },
+    "mj-gl:013:a7ba2489-f38f-47a4-958f-6d1ad0de1219_2": {
+      "groupId": "gl-character-013",
+      "path": "portraits/013/a7ba2489-f38f-47a4-958f-6d1ad0de1219_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 220826,
+      "sha256": "9061dd857e01f8db147c811a4e80a61af8077def367163364284e26828508800",
+      "originalPath": "originals/013/a7ba2489-f38f-47a4-958f-6d1ad0de1219_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1206836,
+      "originalSha256": "1ea0220b70f6859736ac163a872ea71b395c13894079aadc64859f5e55c2c921",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "a7ba2489-f38f-47a4-958f-6d1ad0de1219",
+        "index": 2
+      }
+    },
+    "mj-gl:013:bc772285-5114-4535-be68-51d726e217cc_0": {
+      "groupId": "gl-character-013",
+      "path": "portraits/013/bc772285-5114-4535-be68-51d726e217cc_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 250636,
+      "sha256": "7a29f54dbc6e6b3c3734c0581f674732164ec06f61ad1d282152f75c9e327928",
+      "originalPath": "originals/013/bc772285-5114-4535-be68-51d726e217cc_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1405402,
+      "originalSha256": "f713a72e2df5b67b15b54d375fa516f9b0941ea4ab6a01f47a389f06f5c7562b",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "bc772285-5114-4535-be68-51d726e217cc",
+        "index": 0
+      }
+    },
+    "mj-gl:013:bc772285-5114-4535-be68-51d726e217cc_2": {
+      "groupId": "gl-character-013",
+      "path": "portraits/013/bc772285-5114-4535-be68-51d726e217cc_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 314024,
+      "sha256": "9631ee005ce2e98981274c4f3fa357de61e65052e79a41939ddf1dc0af71df64",
+      "originalPath": "originals/013/bc772285-5114-4535-be68-51d726e217cc_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1655488,
+      "originalSha256": "bc4e605ed5968640c0f5968b28cfb1bd2df6960f99c03b14724ef889fc414c84",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "bc772285-5114-4535-be68-51d726e217cc",
+        "index": 2
+      }
+    },
+    "mj-gl:013:bc772285-5114-4535-be68-51d726e217cc_3": {
+      "groupId": "gl-character-013",
+      "path": "portraits/013/bc772285-5114-4535-be68-51d726e217cc_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 239700,
+      "sha256": "26242dbafe22c6499d2978f3980105ce6a67f6801eb6fbb6265ada9996f585e6",
+      "originalPath": "originals/013/bc772285-5114-4535-be68-51d726e217cc_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1382578,
+      "originalSha256": "91c65c91d7350433549287812918680ee3b51f836cfe2c8684db7d5376d9a803",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "bc772285-5114-4535-be68-51d726e217cc",
+        "index": 3
+      }
+    },
+    "mj-gl:014:dbca55bc-a1ec-4c47-984c-c6627750e325_1": {
+      "groupId": "gl-character-014",
+      "path": "portraits/014/dbca55bc-a1ec-4c47-984c-c6627750e325_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 271942,
+      "sha256": "c23abb27828aaf5b0a0f9d070458946b2132d35aef563404ca8e18d386d98b4f",
+      "originalPath": "originals/014/dbca55bc-a1ec-4c47-984c-c6627750e325_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1387377,
+      "originalSha256": "e209ad0d698eb7e2ff329a6242de88b76b9fb5edc8826356439f93ef9cf50baf",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "dbca55bc-a1ec-4c47-984c-c6627750e325",
+        "index": 1
+      }
+    },
+    "mj-gl:014:e6475f71-dfc2-4837-88e1-cfe22dad7374_1": {
+      "groupId": "gl-character-014",
+      "path": "portraits/014/e6475f71-dfc2-4837-88e1-cfe22dad7374_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 253470,
+      "sha256": "4d732c36887ab7c5486b9153f648b8c5d077999bde6b99c8bab406e783a56c28",
+      "originalPath": "originals/014/e6475f71-dfc2-4837-88e1-cfe22dad7374_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1328894,
+      "originalSha256": "d4319043944213a0a31ee4a6fd25bc083aecb3ebd2f3fee4b44771bf84e8f2c2",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e6475f71-dfc2-4837-88e1-cfe22dad7374",
+        "index": 1
+      }
+    },
+    "mj-gl:014:f2e8eb00-bbcc-4393-80c4-27f2aa7bbafd_0": {
+      "groupId": "gl-character-014",
+      "path": "portraits/014/f2e8eb00-bbcc-4393-80c4-27f2aa7bbafd_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 276450,
+      "sha256": "fc241a72b1a146e3bd5e7a3ad2b3c1364a8dc02b8fd829ede2a7bb46fce475ac",
+      "originalPath": "originals/014/f2e8eb00-bbcc-4393-80c4-27f2aa7bbafd_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1503830,
+      "originalSha256": "f4415a64b631c19f3a115783819959fbc8a59f3e6f00753a45abce79b7ade3f7",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "f2e8eb00-bbcc-4393-80c4-27f2aa7bbafd",
+        "index": 0
+      }
+    },
+    "mj-gl:015:16e09447-022c-4823-a75c-fc177326e766_2": {
+      "groupId": "gl-character-015",
+      "path": "portraits/015/16e09447-022c-4823-a75c-fc177326e766_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 316038,
+      "sha256": "7fd6a9db52852d2a0892935de571a1ea0e965d0ccc63f12f0f30a0c52c8174db",
+      "originalPath": "originals/015/16e09447-022c-4823-a75c-fc177326e766_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1585415,
+      "originalSha256": "1d788af5e65f405a46d6ed9f55c5e8bc90f111c976036434b551bd45c7e8c2a1",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "16e09447-022c-4823-a75c-fc177326e766",
+        "index": 2
+      }
+    },
+    "mj-gl:015:16e09447-022c-4823-a75c-fc177326e766_3": {
+      "groupId": "gl-character-015",
+      "path": "portraits/015/16e09447-022c-4823-a75c-fc177326e766_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 344612,
+      "sha256": "de24c2939ae2593f800e58aa8e2ec1d47e3e49b5aaad8a941530ecc8eb9fcfc3",
+      "originalPath": "originals/015/16e09447-022c-4823-a75c-fc177326e766_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1712700,
+      "originalSha256": "77c8819cbc42331f2811897be68bfe6fe2d58691e33ded0a4d76ba3000beaa5f",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "16e09447-022c-4823-a75c-fc177326e766",
+        "index": 3
+      }
+    },
+    "mj-gl:015:2ebd0af9-f674-4f4a-92e4-e0a9309abc1a_1": {
+      "groupId": "gl-character-015",
+      "path": "portraits/015/2ebd0af9-f674-4f4a-92e4-e0a9309abc1a_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 252998,
+      "sha256": "27afbe152c217a2a54a6864d5b67978abf6a4e08a4eddb3214f5a684b4ba9cbc",
+      "originalPath": "originals/015/2ebd0af9-f674-4f4a-92e4-e0a9309abc1a_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1459814,
+      "originalSha256": "8a4459f0f7c647189d754045bf99bc0c367d7a5490f86f1e7d9ea349171147ea",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "2ebd0af9-f674-4f4a-92e4-e0a9309abc1a",
+        "index": 1
+      }
+    },
+    "mj-gl:015:2ebd0af9-f674-4f4a-92e4-e0a9309abc1a_2": {
+      "groupId": "gl-character-015",
+      "path": "portraits/015/2ebd0af9-f674-4f4a-92e4-e0a9309abc1a_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 309396,
+      "sha256": "0d00e3e31d4e70dae5c7b63ff4d24bf861bff0592a1f0ae8c8f3ae27d7b09da9",
+      "originalPath": "originals/015/2ebd0af9-f674-4f4a-92e4-e0a9309abc1a_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1515579,
+      "originalSha256": "690f84bdacaa436818472177469cd18eaa9f2132ca11f688e3f88ef051b11a1d",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "2ebd0af9-f674-4f4a-92e4-e0a9309abc1a",
+        "index": 2
+      }
+    },
+    "mj-gl:015:5b23c0c4-0924-4393-bab5-cd0c0f07220d_3": {
+      "groupId": "gl-character-015",
+      "path": "portraits/015/5b23c0c4-0924-4393-bab5-cd0c0f07220d_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 311630,
+      "sha256": "72bf7a915c98586a48061b8e0a1208b31faf2e3942755b57a586bd022c91faad",
+      "originalPath": "originals/015/5b23c0c4-0924-4393-bab5-cd0c0f07220d_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1567899,
+      "originalSha256": "f8606313cd404f065bde238959b3dd5f9ed273145f9548a7554a101b12e5749c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5b23c0c4-0924-4393-bab5-cd0c0f07220d",
+        "index": 3
+      }
+    },
+    "mj-gl:016:5bd401c7-513c-4072-b872-bb28492e44f1_2": {
+      "groupId": "gl-character-016",
+      "path": "portraits/016/5bd401c7-513c-4072-b872-bb28492e44f1_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 305986,
+      "sha256": "dec31b6556a551a0ae11c5f44dd1f58b5cad77c79bef65827a00edfa4e976723",
+      "originalPath": "originals/016/5bd401c7-513c-4072-b872-bb28492e44f1_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1656050,
+      "originalSha256": "ac66cb4a788445292772d1de1e6c635ca31cb50661cea3456322d63e3e33bddf",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5bd401c7-513c-4072-b872-bb28492e44f1",
+        "index": 2
+      }
+    },
+    "mj-gl:016:5bd401c7-513c-4072-b872-bb28492e44f1_3": {
+      "groupId": "gl-character-016",
+      "path": "portraits/016/5bd401c7-513c-4072-b872-bb28492e44f1_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 260594,
+      "sha256": "bc65d02cde39069650d2ac6124e977c855bf6705a768c256cdf9710e73736941",
+      "originalPath": "originals/016/5bd401c7-513c-4072-b872-bb28492e44f1_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1420087,
+      "originalSha256": "83341e35b1c26d2c82c01f120c1a9898edd5ae9e129e774d36c3ccaf977e7543",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5bd401c7-513c-4072-b872-bb28492e44f1",
+        "index": 3
+      }
+    },
+    "mj-gl:016:992983f9-f76b-4c65-96fa-d0e09064f093_3": {
+      "groupId": "gl-character-016",
+      "path": "portraits/016/992983f9-f76b-4c65-96fa-d0e09064f093_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 287266,
+      "sha256": "b35c4538e2a199226897f5c7a6c40719b3525f0a6db040cd945037c079229a37",
+      "originalPath": "originals/016/992983f9-f76b-4c65-96fa-d0e09064f093_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1591257,
+      "originalSha256": "261e46e543bbf33d25dafc2cf20ccf93ece04a8eff001fe348cb2cdf9032e769",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "992983f9-f76b-4c65-96fa-d0e09064f093",
+        "index": 3
+      }
+    },
+    "mj-gl:016:b4c79c48-6d61-48ab-8c27-3ad935e7a907_1": {
+      "groupId": "gl-character-016",
+      "path": "portraits/016/b4c79c48-6d61-48ab-8c27-3ad935e7a907_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 255506,
+      "sha256": "1c521b453a6f0361ae063cf13f6310a0c1d8292d577d64c5ed41d6fa5d86019b",
+      "originalPath": "originals/016/b4c79c48-6d61-48ab-8c27-3ad935e7a907_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1400155,
+      "originalSha256": "3c1f6e55a73352f813131ed148f6ba57ddc69542e16240e22fbe6e8c39a51377",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "b4c79c48-6d61-48ab-8c27-3ad935e7a907",
+        "index": 1
+      }
+    },
+    "mj-gl:018:45e7fd81-a4ca-4fe2-93d1-543ffa0da158_1": {
+      "groupId": "gl-character-018",
+      "path": "portraits/018/45e7fd81-a4ca-4fe2-93d1-543ffa0da158_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 230324,
+      "sha256": "c1ebaa8b8e0cc5c4e8efe53579fba5b959f64fa5e27560b6a5e69cd40dce3574",
+      "originalPath": "originals/018/45e7fd81-a4ca-4fe2-93d1-543ffa0da158_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1387916,
+      "originalSha256": "d8481c05695cfb304d0b865846cb6a889167ebd3aaa2a5ff9b342b29fed5dc84",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "45e7fd81-a4ca-4fe2-93d1-543ffa0da158",
+        "index": 1
+      }
+    },
+    "mj-gl:018:45e7fd81-a4ca-4fe2-93d1-543ffa0da158_3": {
+      "groupId": "gl-character-018",
+      "path": "portraits/018/45e7fd81-a4ca-4fe2-93d1-543ffa0da158_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 265534,
+      "sha256": "0885a48db155b7da0d8bc1a33e2baa7f070173767fc6c3ddab5d4736dda2bdfb",
+      "originalPath": "originals/018/45e7fd81-a4ca-4fe2-93d1-543ffa0da158_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1518758,
+      "originalSha256": "7440d5228158ae9a0ede0e272015b553f5055a8f2fbe8ee92b7af644086ceb5c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "45e7fd81-a4ca-4fe2-93d1-543ffa0da158",
+        "index": 3
+      }
+    },
+    "mj-gl:018:5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_0": {
+      "groupId": "gl-character-018",
+      "path": "portraits/018/5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 285396,
+      "sha256": "edc95a53d9f3d3f51f577b8d55b718f040006b28701b2a695c254e35fd791a40",
+      "originalPath": "originals/018/5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1643632,
+      "originalSha256": "fb61f7325cd01c9a67ebaa1c5dca6e748ab749e70887f0a5d1ed499aa73cb4e7",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322",
+        "index": 0
+      }
+    },
+    "mj-gl:018:5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_1": {
+      "groupId": "gl-character-018",
+      "path": "portraits/018/5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 278300,
+      "sha256": "0342b26250ebff03b330ef6a132201ecd17bdb28cb4ed319efab926d70463719",
+      "originalPath": "originals/018/5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1471533,
+      "originalSha256": "0ef0887a692726ae69dd0fbbf331a63f0702366016d42a08940b3d0dc8f71bbf",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322",
+        "index": 1
+      }
+    },
+    "mj-gl:018:5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_2": {
+      "groupId": "gl-character-018",
+      "path": "portraits/018/5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 247274,
+      "sha256": "f201ef7d55e7e7bbe887984a6511b9ba63d5ac4597b4fe8f0ab80f2aeec3c792",
+      "originalPath": "originals/018/5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1422660,
+      "originalSha256": "e61cf5f9103af3799987bd847c8bc85d984be974c57516153c9111afd1dd8ac3",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5d71d7ac-b15e-48e9-b3cc-3bc2e85fb322",
+        "index": 2
+      }
+    },
+    "mj-gl:018:5f72dc2e-6287-496f-b15a-3e7799a0a9df_0": {
+      "groupId": "gl-character-018",
+      "path": "portraits/018/5f72dc2e-6287-496f-b15a-3e7799a0a9df_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 263354,
+      "sha256": "0a6dc7c3828d903eed169807f8d2f26e0575bcc723b2d205eb1ae4c313734d9e",
+      "originalPath": "originals/018/5f72dc2e-6287-496f-b15a-3e7799a0a9df_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1423627,
+      "originalSha256": "f4ff4b5245724bad00b4fc6bb94e70dc9f0f41a71cf9fa1afd2ffc4a0f1c4a25",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5f72dc2e-6287-496f-b15a-3e7799a0a9df",
+        "index": 0
+      }
+    },
+    "mj-gl:018:5f72dc2e-6287-496f-b15a-3e7799a0a9df_1": {
+      "groupId": "gl-character-018",
+      "path": "portraits/018/5f72dc2e-6287-496f-b15a-3e7799a0a9df_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 248056,
+      "sha256": "68a4a4af8e48475a126bc2c9e24f97e38a507885d46afaa2c8c37715b21203c4",
+      "originalPath": "originals/018/5f72dc2e-6287-496f-b15a-3e7799a0a9df_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1412700,
+      "originalSha256": "9ab924e196f61b7ba00312638eda816c651c85bdbaaca2711e3a4d6c2e0417f2",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5f72dc2e-6287-496f-b15a-3e7799a0a9df",
+        "index": 1
+      }
+    },
+    "mj-gl:019:5cf9d80b-7cbc-4531-bdb0-80e31e113ccc_2": {
+      "groupId": "gl-character-019",
+      "path": "portraits/019/5cf9d80b-7cbc-4531-bdb0-80e31e113ccc_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 246324,
+      "sha256": "2876394739c24413aca08895ef4ca44ffd44fd0492ae80a839f3809dad2c12a2",
+      "originalPath": "originals/019/5cf9d80b-7cbc-4531-bdb0-80e31e113ccc_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1525008,
+      "originalSha256": "c8fbcbd83907e0ea35839085b84de3bf8727d49c1a29c98c2f1855229e0f60d0",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5cf9d80b-7cbc-4531-bdb0-80e31e113ccc",
+        "index": 2
+      }
+    },
+    "mj-gl:019:5cf9d80b-7cbc-4531-bdb0-80e31e113ccc_3": {
+      "groupId": "gl-character-019",
+      "path": "portraits/019/5cf9d80b-7cbc-4531-bdb0-80e31e113ccc_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 287154,
+      "sha256": "e1746e576e799b13caea75bd849d051e0d113031b759eb430be13a8b62be77b0",
+      "originalPath": "originals/019/5cf9d80b-7cbc-4531-bdb0-80e31e113ccc_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1475416,
+      "originalSha256": "ad3ccf32efe7b6b91169d1093e311abd22a19587b85842f288a6283891fb8b9f",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5cf9d80b-7cbc-4531-bdb0-80e31e113ccc",
+        "index": 3
+      }
+    },
+    "mj-gl:019:63d40269-329e-424c-a6f4-971acad78eda_0": {
+      "groupId": "gl-character-019",
+      "path": "portraits/019/63d40269-329e-424c-a6f4-971acad78eda_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 189598,
+      "sha256": "1595d70236fa951d4eb6a797bd225b925b6f491ae20a7e35e41fb902b5c0e530",
+      "originalPath": "originals/019/63d40269-329e-424c-a6f4-971acad78eda_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1223436,
+      "originalSha256": "5337b1c0206dfda44c4aaf5149c60b616f96b82d934ab8e8ebfc602a112e0fea",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "63d40269-329e-424c-a6f4-971acad78eda",
+        "index": 0
+      }
+    },
+    "mj-gl:019:63d40269-329e-424c-a6f4-971acad78eda_3": {
+      "groupId": "gl-character-019",
+      "path": "portraits/019/63d40269-329e-424c-a6f4-971acad78eda_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 251738,
+      "sha256": "01d4edd00245c95bb20eb9bee6d37476b3d27b5af0b45ba2530cd69ffe3b4958",
+      "originalPath": "originals/019/63d40269-329e-424c-a6f4-971acad78eda_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1563804,
+      "originalSha256": "4757c7fad3b43d3f10e82a8dcb4200c6ba303d985e3a188a036fd4b0e237ddd9",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "63d40269-329e-424c-a6f4-971acad78eda",
+        "index": 3
+      }
+    },
+    "mj-gl:019:d043db0b-bbbe-4f99-87b1-df42700844a6_0": {
+      "groupId": "gl-character-019",
+      "path": "portraits/019/d043db0b-bbbe-4f99-87b1-df42700844a6_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 249910,
+      "sha256": "18b12cecd12c8530aada102148571b99400dee88b855b67f74da6ebac7c4f903",
+      "originalPath": "originals/019/d043db0b-bbbe-4f99-87b1-df42700844a6_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1614438,
+      "originalSha256": "239faf7913d608dff644d804bf9736831b260340555ca885edb229901764151d",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "d043db0b-bbbe-4f99-87b1-df42700844a6",
+        "index": 0
+      }
+    },
+    "mj-gl:019:d043db0b-bbbe-4f99-87b1-df42700844a6_1": {
+      "groupId": "gl-character-019",
+      "path": "portraits/019/d043db0b-bbbe-4f99-87b1-df42700844a6_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 240402,
+      "sha256": "55589ce45478fdbd8b375e4c7307ae78d580402f6446bf998498004d3f6a082e",
+      "originalPath": "originals/019/d043db0b-bbbe-4f99-87b1-df42700844a6_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1344128,
+      "originalSha256": "761d88a49b7badc5a8e5787f7d6119619da71815edd655b62a453831ac4c8a14",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "d043db0b-bbbe-4f99-87b1-df42700844a6",
+        "index": 1
+      }
+    },
+    "mj-gl:019:d043db0b-bbbe-4f99-87b1-df42700844a6_2": {
+      "groupId": "gl-character-019",
+      "path": "portraits/019/d043db0b-bbbe-4f99-87b1-df42700844a6_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 258712,
+      "sha256": "af7de62c97f73e45c0c0cbd6b6c8fddb765c108144ce81a91cee4a770b09c6cb",
+      "originalPath": "originals/019/d043db0b-bbbe-4f99-87b1-df42700844a6_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1386897,
+      "originalSha256": "3574b5cc4ccb5a590b117dd4bebf6c51b2b23be43101f71ab89f91e699632baf",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "d043db0b-bbbe-4f99-87b1-df42700844a6",
+        "index": 2
+      }
+    },
+    "mj-gl:020:1b8f5585-5a2f-4c68-9977-75419ef4dfb3_0": {
+      "groupId": "gl-character-020",
+      "path": "portraits/020/1b8f5585-5a2f-4c68-9977-75419ef4dfb3_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 259412,
+      "sha256": "85faf78d0ae48983aae0e28a073398a23bfda465d4a56f7e8bfbfd635a9b34b3",
+      "originalPath": "originals/020/1b8f5585-5a2f-4c68-9977-75419ef4dfb3_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1521611,
+      "originalSha256": "a7a2f956b98e972cc7b546255bff78f01458a6ca56f90cd4d862cb54da08c69c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "1b8f5585-5a2f-4c68-9977-75419ef4dfb3",
+        "index": 0
+      }
+    },
+    "mj-gl:020:1b8f5585-5a2f-4c68-9977-75419ef4dfb3_1": {
+      "groupId": "gl-character-020",
+      "path": "portraits/020/1b8f5585-5a2f-4c68-9977-75419ef4dfb3_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 267148,
+      "sha256": "74adb8f8552f22e1869eb508d524f38f59bf31a82f280c3c57350b54e8e2ad0d",
+      "originalPath": "originals/020/1b8f5585-5a2f-4c68-9977-75419ef4dfb3_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1438894,
+      "originalSha256": "8bf23ee19eb16fb11eeb81866bd61be0ab55b6619e88cd8f61155bfa9b63397e",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "1b8f5585-5a2f-4c68-9977-75419ef4dfb3",
+        "index": 1
+      }
+    },
+    "mj-gl:020:1b8f5585-5a2f-4c68-9977-75419ef4dfb3_3": {
+      "groupId": "gl-character-020",
+      "path": "portraits/020/1b8f5585-5a2f-4c68-9977-75419ef4dfb3_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 220540,
+      "sha256": "8c6f19bb0b783dc4709b643507e86c8619d2d9c26eaa170ba42f2537f254b89c",
+      "originalPath": "originals/020/1b8f5585-5a2f-4c68-9977-75419ef4dfb3_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1260307,
+      "originalSha256": "d13b424e8d3182893778a128706f82d1099e3081277804e3c4e6f8b032b1ddcc",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "1b8f5585-5a2f-4c68-9977-75419ef4dfb3",
+        "index": 3
+      }
+    },
+    "mj-gl:020:3371c2c2-1a29-46bc-b99d-5a872a538029_1": {
+      "groupId": "gl-character-020",
+      "path": "portraits/020/3371c2c2-1a29-46bc-b99d-5a872a538029_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 270452,
+      "sha256": "1e101152c140687d4e8eec462287ceaacb0b2cb8a03eb83ce146041d15e27a63",
+      "originalPath": "originals/020/3371c2c2-1a29-46bc-b99d-5a872a538029_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1583421,
+      "originalSha256": "99b6d4d2b9b57cf37c4eece1db89be424cba0bb0bf0fb803a01dd813a228f25f",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3371c2c2-1a29-46bc-b99d-5a872a538029",
+        "index": 1
+      }
+    },
+    "mj-gl:020:3371c2c2-1a29-46bc-b99d-5a872a538029_2": {
+      "groupId": "gl-character-020",
+      "path": "portraits/020/3371c2c2-1a29-46bc-b99d-5a872a538029_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 279542,
+      "sha256": "0b3219901992489f56c30ee2f3fc75e337c42f96c6a22404ebad199b7c97d511",
+      "originalPath": "originals/020/3371c2c2-1a29-46bc-b99d-5a872a538029_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1569795,
+      "originalSha256": "0a5bb2e4784d0f90af0cd31dd9185af50019dc8317af7ad6d18263bc0b561e4c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3371c2c2-1a29-46bc-b99d-5a872a538029",
+        "index": 2
+      }
+    },
+    "mj-gl:020:35330faf-380c-4366-8a7e-a78a0f1d588a_1": {
+      "groupId": "gl-character-020",
+      "path": "portraits/020/35330faf-380c-4366-8a7e-a78a0f1d588a_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 267448,
+      "sha256": "ea5abb63fe8e6cbfb9df6ce7d163d1ec02c2b2482053672bc2c436cf1cb0281a",
+      "originalPath": "originals/020/35330faf-380c-4366-8a7e-a78a0f1d588a_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1609525,
+      "originalSha256": "3c63daf9422ee3f5ad846cb651fd03ed42c77aa2d2d3bb8b06b17bfeab6708e9",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "35330faf-380c-4366-8a7e-a78a0f1d588a",
+        "index": 1
+      }
+    },
+    "mj-gl:020:35330faf-380c-4366-8a7e-a78a0f1d588a_2": {
+      "groupId": "gl-character-020",
+      "path": "portraits/020/35330faf-380c-4366-8a7e-a78a0f1d588a_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 234740,
+      "sha256": "d092fe437c79aebd9e268f816070236f62823fdbb2c0a077a2b900e99c362e78",
+      "originalPath": "originals/020/35330faf-380c-4366-8a7e-a78a0f1d588a_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1425598,
+      "originalSha256": "313c4adcec8e5a2363cb050148d37e3ec41b35762821910c204a6a5ac15e09a7",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "35330faf-380c-4366-8a7e-a78a0f1d588a",
+        "index": 2
+      }
+    },
+    "mj-gl:020:35330faf-380c-4366-8a7e-a78a0f1d588a_3": {
+      "groupId": "gl-character-020",
+      "path": "portraits/020/35330faf-380c-4366-8a7e-a78a0f1d588a_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 303658,
+      "sha256": "5178ac7f4395bbe8923ba0ce6e384b4fa9352f64aaaf40a7f68979128fc7c149",
+      "originalPath": "originals/020/35330faf-380c-4366-8a7e-a78a0f1d588a_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1552368,
+      "originalSha256": "dded0c13913a217f75fcfbb993de8e60bc4773adb5d792ca562d51da0ac6b8ca",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "35330faf-380c-4366-8a7e-a78a0f1d588a",
+        "index": 3
+      }
+    },
+    "mj-gl:022:351d3b5a-2091-430f-8abb-5ff8038015f9_2": {
+      "groupId": "gl-character-022",
+      "path": "portraits/022/351d3b5a-2091-430f-8abb-5ff8038015f9_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 314502,
+      "sha256": "e2aea9e180983a5023ca553cb347a8639c69dd13495ea80c79001c07091379fe",
+      "originalPath": "originals/022/351d3b5a-2091-430f-8abb-5ff8038015f9_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1591633,
+      "originalSha256": "9592de6949628767fae2d92c12ac2f5a5629453d90c4f0de995b0a94455c6081",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "351d3b5a-2091-430f-8abb-5ff8038015f9",
+        "index": 2
+      }
+    },
+    "mj-gl:022:351d3b5a-2091-430f-8abb-5ff8038015f9_3": {
+      "groupId": "gl-character-022",
+      "path": "portraits/022/351d3b5a-2091-430f-8abb-5ff8038015f9_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 290380,
+      "sha256": "b4c8db806e4f6ca20774fd4391fdaa2902e15e249cc1c12f1f8077823e96bf59",
+      "originalPath": "originals/022/351d3b5a-2091-430f-8abb-5ff8038015f9_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1522131,
+      "originalSha256": "5d2ae32052bb20fb378d73fe5dac96cf3530c3a9b12ffdec12b55ba25af39131",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "351d3b5a-2091-430f-8abb-5ff8038015f9",
+        "index": 3
+      }
+    },
+    "mj-gl:022:7e17e307-28d4-4bdc-903a-2f4c80516def_0": {
+      "groupId": "gl-character-022",
+      "path": "portraits/022/7e17e307-28d4-4bdc-903a-2f4c80516def_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 275534,
+      "sha256": "682520ffcb6896cf0503bd6c4a9e77e9ec1d45e3a2658e34f003d5e82c2661a8",
+      "originalPath": "originals/022/7e17e307-28d4-4bdc-903a-2f4c80516def_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1479009,
+      "originalSha256": "24c466ba5c6aac2f0382383aa7707ad4fe701986981b5a9f996e28e89a9c1164",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "7e17e307-28d4-4bdc-903a-2f4c80516def",
+        "index": 0
+      }
+    },
+    "mj-gl:022:7e17e307-28d4-4bdc-903a-2f4c80516def_1": {
+      "groupId": "gl-character-022",
+      "path": "portraits/022/7e17e307-28d4-4bdc-903a-2f4c80516def_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 314436,
+      "sha256": "a4e1105c070e908847c4cb0c162ff4ed2656b4e5971da019980cf2b42d5bee83",
+      "originalPath": "originals/022/7e17e307-28d4-4bdc-903a-2f4c80516def_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1649267,
+      "originalSha256": "62d5c2b85fbe67cd104d137dba6f88b1b364ee9e8bc32c08f64fea5d8ffb4b59",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "7e17e307-28d4-4bdc-903a-2f4c80516def",
+        "index": 1
+      }
+    },
+    "mj-gl:022:7e17e307-28d4-4bdc-903a-2f4c80516def_2": {
+      "groupId": "gl-character-022",
+      "path": "portraits/022/7e17e307-28d4-4bdc-903a-2f4c80516def_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 300226,
+      "sha256": "438a2491f19034f7fdedd71e4cbc047c818651d8646ba2931360817131335da3",
+      "originalPath": "originals/022/7e17e307-28d4-4bdc-903a-2f4c80516def_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1571788,
+      "originalSha256": "283cbe05cc32310e07fe62aab3fc5645e016056d71073617ffc0b8b2feb77d1a",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "7e17e307-28d4-4bdc-903a-2f4c80516def",
+        "index": 2
+      }
+    },
+    "mj-gl:022:7e17e307-28d4-4bdc-903a-2f4c80516def_3": {
+      "groupId": "gl-character-022",
+      "path": "portraits/022/7e17e307-28d4-4bdc-903a-2f4c80516def_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 357052,
+      "sha256": "b627d5d244bef061c1e6bd6dfe4c763ab792e9218f9d6d32ce59595c589e93aa",
+      "originalPath": "originals/022/7e17e307-28d4-4bdc-903a-2f4c80516def_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1755118,
+      "originalSha256": "d7c7900bde50cc96fcb685ecf3398431b5e215b5e2e15e1e2aed9bddcb663e8e",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "7e17e307-28d4-4bdc-903a-2f4c80516def",
+        "index": 3
+      }
+    },
+    "mj-gl:022:dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_0": {
+      "groupId": "gl-character-022",
+      "path": "portraits/022/dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 313350,
+      "sha256": "e3afdeef6296bb9ce8e547ea7c379efa55d714517ca11fb679e5c4f232c124bb",
+      "originalPath": "originals/022/dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1593003,
+      "originalSha256": "9721353e9627a469cc1454ebebf7cfd2514d02ac5023dfb0e593f1c063c575f7",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4",
+        "index": 0
+      }
+    },
+    "mj-gl:022:dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_1": {
+      "groupId": "gl-character-022",
+      "path": "portraits/022/dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 335788,
+      "sha256": "0e8db92519f1ec31c139bac8591bad91e9ebd97654805587523969ec22a258a0",
+      "originalPath": "originals/022/dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1686194,
+      "originalSha256": "4e139297a352079238b16249694e55628a6ac199d96fbee2bdad8d8ecfc56377",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4",
+        "index": 1
+      }
+    },
+    "mj-gl:022:dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_2": {
+      "groupId": "gl-character-022",
+      "path": "portraits/022/dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 286852,
+      "sha256": "db519c06dd7563ee00f952c19a03d77592e3f685352e2b7fe5e514eb2b1a5e4a",
+      "originalPath": "originals/022/dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1427285,
+      "originalSha256": "1c9e2e13d18f17e2f2c0f764260bd2c82f26bdcd6d27752b9e0b814b3a4af969",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4",
+        "index": 2
+      }
+    },
+    "mj-gl:022:dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_3": {
+      "groupId": "gl-character-022",
+      "path": "portraits/022/dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 332992,
+      "sha256": "0ebf5a292e7e2c5183eeb88f0f40c6eef92e6023fb10ac05f12604da267c489b",
+      "originalPath": "originals/022/dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1595961,
+      "originalSha256": "0bb2f9c2072c12179d0b282eec2b0c46d100fb4c3e1fba4da58a6e818ea89a20",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "dba19fd2-e328-4ae5-9ac2-4cd8bb3ec8b4",
+        "index": 3
+      }
+    },
+    "mj-gl:025:05b08ed6-1905-44c5-be17-c50b79d2f1e7_0": {
+      "groupId": "gl-character-025",
+      "path": "portraits/025/05b08ed6-1905-44c5-be17-c50b79d2f1e7_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 225922,
+      "sha256": "eda1d145168813c029d80a018d19b173f61d680f017e72c663609ea06a3df15a",
+      "originalPath": "originals/025/05b08ed6-1905-44c5-be17-c50b79d2f1e7_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1355042,
+      "originalSha256": "53908c14c286e6badec1cced835f72e9645331335860464cc569435082a1173b",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "05b08ed6-1905-44c5-be17-c50b79d2f1e7",
+        "index": 0
+      }
+    },
+    "mj-gl:025:05b08ed6-1905-44c5-be17-c50b79d2f1e7_1": {
+      "groupId": "gl-character-025",
+      "path": "portraits/025/05b08ed6-1905-44c5-be17-c50b79d2f1e7_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 227500,
+      "sha256": "d4338a3f85f8a9a5a9e6f6185d19b5b7c0ec07e0730dfa8030eb7c460471ec73",
+      "originalPath": "originals/025/05b08ed6-1905-44c5-be17-c50b79d2f1e7_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1234972,
+      "originalSha256": "7f5b68a03008a091d08d68f2464b6362ecff16d1cfbce601ebe7a2278f662574",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "05b08ed6-1905-44c5-be17-c50b79d2f1e7",
+        "index": 1
+      }
+    },
+    "mj-gl:025:05b08ed6-1905-44c5-be17-c50b79d2f1e7_3": {
+      "groupId": "gl-character-025",
+      "path": "portraits/025/05b08ed6-1905-44c5-be17-c50b79d2f1e7_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 197276,
+      "sha256": "5c143aca74c4878f46bfa55f2baba6c1f638604dbdbc2972802a24490b1286ef",
+      "originalPath": "originals/025/05b08ed6-1905-44c5-be17-c50b79d2f1e7_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1073705,
+      "originalSha256": "a553ab74209470a85368ce8f7911523d1da12bc2fd5a701c04da7bdb86641a44",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "05b08ed6-1905-44c5-be17-c50b79d2f1e7",
+        "index": 3
+      }
+    },
+    "mj-gl:025:5416673a-3102-4f8d-84d7-7bc5879524df_0": {
+      "groupId": "gl-character-025",
+      "path": "portraits/025/5416673a-3102-4f8d-84d7-7bc5879524df_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 198136,
+      "sha256": "44a34b95229bfd7a78a42bf12ef50bc165671aa76a30baa2cb4aff6437998444",
+      "originalPath": "originals/025/5416673a-3102-4f8d-84d7-7bc5879524df_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1132067,
+      "originalSha256": "c1b682cce2846e49b1f8aaea1d41a5b34964afcfbd8d2a76f0923e3cf55f6845",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5416673a-3102-4f8d-84d7-7bc5879524df",
+        "index": 0
+      }
+    },
+    "mj-gl:025:5416673a-3102-4f8d-84d7-7bc5879524df_1": {
+      "groupId": "gl-character-025",
+      "path": "portraits/025/5416673a-3102-4f8d-84d7-7bc5879524df_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 207302,
+      "sha256": "67a73dd70b7cea2dfea30be65b0d44b51e5a95c066eee9d649efb87e375971be",
+      "originalPath": "originals/025/5416673a-3102-4f8d-84d7-7bc5879524df_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1086406,
+      "originalSha256": "072cf3e2c04b18c613c98638936418a3797b080898fbad4dd63a35599f2785ba",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5416673a-3102-4f8d-84d7-7bc5879524df",
+        "index": 1
+      }
+    },
+    "mj-gl:025:5416673a-3102-4f8d-84d7-7bc5879524df_2": {
+      "groupId": "gl-character-025",
+      "path": "portraits/025/5416673a-3102-4f8d-84d7-7bc5879524df_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 200624,
+      "sha256": "9b98d28afb3f7070dc6e6d07fe5190b177eb6bc3c5cef77d05b099a04a4040ef",
+      "originalPath": "originals/025/5416673a-3102-4f8d-84d7-7bc5879524df_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1114951,
+      "originalSha256": "71b0b6ed6e2706d2bda690748e711c2eee2da8066a76380793381e7bfcdee5a9",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5416673a-3102-4f8d-84d7-7bc5879524df",
+        "index": 2
+      }
+    },
+    "mj-gl:025:d91a278b-797b-44ca-bdd6-a6477cd54ac2_0": {
+      "groupId": "gl-character-025",
+      "path": "portraits/025/d91a278b-797b-44ca-bdd6-a6477cd54ac2_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 254528,
+      "sha256": "0cae598ddd6847b03cc628b41eb7ae06b00bbccf4aef85823405861a293613e9",
+      "originalPath": "originals/025/d91a278b-797b-44ca-bdd6-a6477cd54ac2_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1444855,
+      "originalSha256": "5c6060036eae2d9c468fb66e5706524711fb5e5b1a801495b5d153b1495bbc4c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "d91a278b-797b-44ca-bdd6-a6477cd54ac2",
+        "index": 0
+      }
+    },
+    "mj-gl:025:d91a278b-797b-44ca-bdd6-a6477cd54ac2_1": {
+      "groupId": "gl-character-025",
+      "path": "portraits/025/d91a278b-797b-44ca-bdd6-a6477cd54ac2_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 240680,
+      "sha256": "c4620a3c4d4f4dbcaa20d54c721d5f484f90e9a9a4372476ba203efc85bb168a",
+      "originalPath": "originals/025/d91a278b-797b-44ca-bdd6-a6477cd54ac2_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1467399,
+      "originalSha256": "74864b4f0199cb9a3565c93c6196790d2829bd5db54a0474e350339afa20292a",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "d91a278b-797b-44ca-bdd6-a6477cd54ac2",
+        "index": 1
+      }
+    },
+    "mj-gl:026:ed2b6afc-7c04-43d6-95eb-6bf950ad71d2_3": {
+      "groupId": "gl-character-026",
+      "path": "portraits/026/ed2b6afc-7c04-43d6-95eb-6bf950ad71d2_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 268918,
+      "sha256": "0a9a96f987f386ffffa2919e1922255c1df2e0f22c4d674e2b9d87257422f87c",
+      "originalPath": "originals/026/ed2b6afc-7c04-43d6-95eb-6bf950ad71d2_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1431372,
+      "originalSha256": "eb3931447fc55d5f49d0943e226e8dccc399c4db7d8b263069cbe1f4b257378f",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "ed2b6afc-7c04-43d6-95eb-6bf950ad71d2",
+        "index": 3
+      }
+    },
+    "mj-gl:026:ed2be110-3263-4efb-ae88-97cbb7936ba2_0": {
+      "groupId": "gl-character-026",
+      "path": "portraits/026/ed2be110-3263-4efb-ae88-97cbb7936ba2_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 309328,
+      "sha256": "825c33303b51c856ada1cbb5b773c8ff654c4f71d57f9920314f14c41a0772c8",
+      "originalPath": "originals/026/ed2be110-3263-4efb-ae88-97cbb7936ba2_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1537910,
+      "originalSha256": "d5dc7a7d8185afccfb52cf84b04b8fc6719a3fbfb3e63883ffcabbfea79f302a",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "ed2be110-3263-4efb-ae88-97cbb7936ba2",
+        "index": 0
+      }
+    },
+    "mj-gl:026:ed2be110-3263-4efb-ae88-97cbb7936ba2_1": {
+      "groupId": "gl-character-026",
+      "path": "portraits/026/ed2be110-3263-4efb-ae88-97cbb7936ba2_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 258886,
+      "sha256": "6d9bb9e1b6d007f64afa0a0d7ff9921cc0f855ca64ccb392fb9dea2779daf9a9",
+      "originalPath": "originals/026/ed2be110-3263-4efb-ae88-97cbb7936ba2_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1606984,
+      "originalSha256": "338fbf7a32ab1ed4c4ff10d3899f528a137d1fe882f5da146f6f5a9ba63c920f",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "ed2be110-3263-4efb-ae88-97cbb7936ba2",
+        "index": 1
+      }
+    },
+    "mj-gl:027:3d0ef8ef-e273-4600-8e8b-2b0e5054f361_0": {
+      "groupId": "gl-character-027",
+      "path": "portraits/027/3d0ef8ef-e273-4600-8e8b-2b0e5054f361_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 208234,
+      "sha256": "64ca998b88f9f8ab08cda91bd61612cafd48606f9ad52886a2f63f343ca197ad",
+      "originalPath": "originals/027/3d0ef8ef-e273-4600-8e8b-2b0e5054f361_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1239757,
+      "originalSha256": "2e58d99741b5310580b94399040cee9839475c25c54f3136ed6536e36d31692e",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3d0ef8ef-e273-4600-8e8b-2b0e5054f361",
+        "index": 0
+      }
+    },
+    "mj-gl:027:3d0ef8ef-e273-4600-8e8b-2b0e5054f361_1": {
+      "groupId": "gl-character-027",
+      "path": "portraits/027/3d0ef8ef-e273-4600-8e8b-2b0e5054f361_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 221708,
+      "sha256": "560f4db21c7a68070f46803019e98bfadc35cafd40d964b2d44f27e943f3c7b4",
+      "originalPath": "originals/027/3d0ef8ef-e273-4600-8e8b-2b0e5054f361_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1368279,
+      "originalSha256": "154cd53048c781f9c1ac33d9e87822c8508de59ea0090d3b4cf92cb33fab27a7",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3d0ef8ef-e273-4600-8e8b-2b0e5054f361",
+        "index": 1
+      }
+    },
+    "mj-gl:027:3d0ef8ef-e273-4600-8e8b-2b0e5054f361_2": {
+      "groupId": "gl-character-027",
+      "path": "portraits/027/3d0ef8ef-e273-4600-8e8b-2b0e5054f361_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 274068,
+      "sha256": "29ff7bd5bfd070f7d7bb9389909ea118c25561d5de175195b48e0d743eba1e91",
+      "originalPath": "originals/027/3d0ef8ef-e273-4600-8e8b-2b0e5054f361_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1545358,
+      "originalSha256": "ce33aebcc0bbbee240c0da8dfad1f5b02a124698020d7ecd77bb0d7e9aa280b3",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3d0ef8ef-e273-4600-8e8b-2b0e5054f361",
+        "index": 2
+      }
+    },
+    "mj-gl:027:dcaa24d6-719e-43f6-9f89-1b3a8857d95a_0": {
+      "groupId": "gl-character-027",
+      "path": "portraits/027/dcaa24d6-719e-43f6-9f89-1b3a8857d95a_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 230146,
+      "sha256": "73299843fc2a12a4b4a107f610d04cdc71082929c60226cf5cc50919dac0edae",
+      "originalPath": "originals/027/dcaa24d6-719e-43f6-9f89-1b3a8857d95a_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1288119,
+      "originalSha256": "469e49ea58b700b40e331cd87f7be09e99bc268db3dd7aca7be1a6fed45d0ad0",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "dcaa24d6-719e-43f6-9f89-1b3a8857d95a",
+        "index": 0
+      }
+    },
+    "mj-gl:027:dcaa24d6-719e-43f6-9f89-1b3a8857d95a_2": {
+      "groupId": "gl-character-027",
+      "path": "portraits/027/dcaa24d6-719e-43f6-9f89-1b3a8857d95a_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 216770,
+      "sha256": "704d26df004e9cc61e1ecf3621e5eada055edba98311f02b70d682d84c54f508",
+      "originalPath": "originals/027/dcaa24d6-719e-43f6-9f89-1b3a8857d95a_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1165981,
+      "originalSha256": "19693fe3fa4078b6017ab2e0b5e2256e174ea54a1b285f0fa72f7c1f81c01d07",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "dcaa24d6-719e-43f6-9f89-1b3a8857d95a",
+        "index": 2
+      }
+    },
+    "mj-gl:027:dcaa24d6-719e-43f6-9f89-1b3a8857d95a_3": {
+      "groupId": "gl-character-027",
+      "path": "portraits/027/dcaa24d6-719e-43f6-9f89-1b3a8857d95a_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 258084,
+      "sha256": "36cf196717403fe47fdecd573df6698a044faac5437609964dbd419d1bd5ac58",
+      "originalPath": "originals/027/dcaa24d6-719e-43f6-9f89-1b3a8857d95a_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1594251,
+      "originalSha256": "b679c1a329d13725564f3098beb43db8b9a63634373581c4242667c4ae18e4c0",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "dcaa24d6-719e-43f6-9f89-1b3a8857d95a",
+        "index": 3
+      }
+    },
+    "mj-gl:027:e1e205a2-498a-4e32-8c01-ad5dc32b7998_0": {
+      "groupId": "gl-character-027",
+      "path": "portraits/027/e1e205a2-498a-4e32-8c01-ad5dc32b7998_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 220528,
+      "sha256": "962aa5bc2077bdb92a6a1803da974f4ddfa32d5544e2dd58e0a88f0f6ff04cae",
+      "originalPath": "originals/027/e1e205a2-498a-4e32-8c01-ad5dc32b7998_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1245861,
+      "originalSha256": "45ba5558ff92e9e6c913d79e67619bc58335e377c9a1006fb61fa88ed377701a",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e1e205a2-498a-4e32-8c01-ad5dc32b7998",
+        "index": 0
+      }
+    },
+    "mj-gl:027:e1e205a2-498a-4e32-8c01-ad5dc32b7998_1": {
+      "groupId": "gl-character-027",
+      "path": "portraits/027/e1e205a2-498a-4e32-8c01-ad5dc32b7998_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 264676,
+      "sha256": "b6d532ea797bcb36926d4781b9a63f5d60faf01d054f1a5bf1c26bde22817459",
+      "originalPath": "originals/027/e1e205a2-498a-4e32-8c01-ad5dc32b7998_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1588534,
+      "originalSha256": "2abbabbd890a7038df48c3a358645f433f875d7b3925a103702d4e04f1b5e80d",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e1e205a2-498a-4e32-8c01-ad5dc32b7998",
+        "index": 1
+      }
+    },
+    "mj-gl:027:e1e205a2-498a-4e32-8c01-ad5dc32b7998_2": {
+      "groupId": "gl-character-027",
+      "path": "portraits/027/e1e205a2-498a-4e32-8c01-ad5dc32b7998_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 225034,
+      "sha256": "32c6f41e64a9b3cfb3611065145377db8b7cc180c153114b8a4abd83758a91dc",
+      "originalPath": "originals/027/e1e205a2-498a-4e32-8c01-ad5dc32b7998_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1398633,
+      "originalSha256": "6275970dfc9e3fde36c426732ca5a5e6ed5ce9d8dbaf923e8c339fda20166e0d",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e1e205a2-498a-4e32-8c01-ad5dc32b7998",
+        "index": 2
+      }
+    },
+    "mj-gl:027:e1e205a2-498a-4e32-8c01-ad5dc32b7998_3": {
+      "groupId": "gl-character-027",
+      "path": "portraits/027/e1e205a2-498a-4e32-8c01-ad5dc32b7998_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 266148,
+      "sha256": "d5d484fe87b8670fd6983799b5faf0b519404fcec438ae5d51c2161b348ad736",
+      "originalPath": "originals/027/e1e205a2-498a-4e32-8c01-ad5dc32b7998_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1411108,
+      "originalSha256": "ad3299ac68ea5cacb9a06fe7112c2b2109d9566db77226bc7bdcb6a27f5827f9",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e1e205a2-498a-4e32-8c01-ad5dc32b7998",
+        "index": 3
+      }
+    },
+    "mj-gl:029:288a9968-cc3f-4983-a7b8-0077804af7ce_0": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/288a9968-cc3f-4983-a7b8-0077804af7ce_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 256690,
+      "sha256": "331679dc7225f984ec6237b18f2565c85d4e25c111bbb06292ce54e268462e79",
+      "originalPath": "originals/029/288a9968-cc3f-4983-a7b8-0077804af7ce_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1466589,
+      "originalSha256": "a91520799a50c36a3ad66ba9e22e64897752390ab82b2322a5877e4b1825c2a8",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "288a9968-cc3f-4983-a7b8-0077804af7ce",
+        "index": 0
+      }
+    },
+    "mj-gl:029:288a9968-cc3f-4983-a7b8-0077804af7ce_1": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/288a9968-cc3f-4983-a7b8-0077804af7ce_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 311584,
+      "sha256": "8553348a252241d9b1cac106564e3828fd566f10ef8095f844712d96b7e602e5",
+      "originalPath": "originals/029/288a9968-cc3f-4983-a7b8-0077804af7ce_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1549567,
+      "originalSha256": "03fb5017c47cc333afb1cf5ae35595e74b2729e499a4da3d21de986d90f9072d",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "288a9968-cc3f-4983-a7b8-0077804af7ce",
+        "index": 1
+      }
+    },
+    "mj-gl:029:288a9968-cc3f-4983-a7b8-0077804af7ce_2": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/288a9968-cc3f-4983-a7b8-0077804af7ce_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 258624,
+      "sha256": "ac32c4dd637a676b80c45ab2dfa5ec8df984203ece66ede71272fb2fa79bb9f6",
+      "originalPath": "originals/029/288a9968-cc3f-4983-a7b8-0077804af7ce_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1475523,
+      "originalSha256": "22803fed39f71dceba19911a25141062b4fdbd71dd5233a7d3e6611d7d0c8abf",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "288a9968-cc3f-4983-a7b8-0077804af7ce",
+        "index": 2
+      }
+    },
+    "mj-gl:029:288a9968-cc3f-4983-a7b8-0077804af7ce_3": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/288a9968-cc3f-4983-a7b8-0077804af7ce_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 356264,
+      "sha256": "4be6ae7a5512b53acc75e4236a4811e4e44cc16068b4fd14d1d82c50164e0710",
+      "originalPath": "originals/029/288a9968-cc3f-4983-a7b8-0077804af7ce_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1896340,
+      "originalSha256": "1041676b1daf3abb490e6b55291c6d5c6bd7a98ede6cf8621fdfe4d74e650988",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "288a9968-cc3f-4983-a7b8-0077804af7ce",
+        "index": 3
+      }
+    },
+    "mj-gl:029:9b1f4597-fe31-4ce2-8d6c-3148630507b9_0": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/9b1f4597-fe31-4ce2-8d6c-3148630507b9_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 249900,
+      "sha256": "74746d42880700b7b7c55aa45ad9de5b8d10825001795d00e00e0b4215565d03",
+      "originalPath": "originals/029/9b1f4597-fe31-4ce2-8d6c-3148630507b9_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1558273,
+      "originalSha256": "d2b7d043aedb705412d2cc523cc053fc643c7a6d56cadf6648b779e7901af3a5",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "9b1f4597-fe31-4ce2-8d6c-3148630507b9",
+        "index": 0
+      }
+    },
+    "mj-gl:029:9b1f4597-fe31-4ce2-8d6c-3148630507b9_1": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/9b1f4597-fe31-4ce2-8d6c-3148630507b9_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 290740,
+      "sha256": "ebcadec99eac9a1dc87c3242a2ae28a6c97476043e565b5077eb6cd7c1f6b0d2",
+      "originalPath": "originals/029/9b1f4597-fe31-4ce2-8d6c-3148630507b9_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1498380,
+      "originalSha256": "4d8fe6edd1746bc013fa55f34cebef388ce3a0bc881e48fcb060bee688fc0f23",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "9b1f4597-fe31-4ce2-8d6c-3148630507b9",
+        "index": 1
+      }
+    },
+    "mj-gl:029:9b1f4597-fe31-4ce2-8d6c-3148630507b9_2": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/9b1f4597-fe31-4ce2-8d6c-3148630507b9_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 341552,
+      "sha256": "123f1946e401e00088f4a79096a0ba95d8ce0178a8e1271fef67d7503c82f59a",
+      "originalPath": "originals/029/9b1f4597-fe31-4ce2-8d6c-3148630507b9_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1710013,
+      "originalSha256": "5903f949721cadab9bac540dfa9179c3f3c15952122decfaae2c9eccd2070000",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "9b1f4597-fe31-4ce2-8d6c-3148630507b9",
+        "index": 2
+      }
+    },
+    "mj-gl:029:9b1f4597-fe31-4ce2-8d6c-3148630507b9_3": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/9b1f4597-fe31-4ce2-8d6c-3148630507b9_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 271034,
+      "sha256": "49b487ae269835b1beafa8c0753d16b12b715533b39de88b64245a293fcc8d3b",
+      "originalPath": "originals/029/9b1f4597-fe31-4ce2-8d6c-3148630507b9_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1554877,
+      "originalSha256": "da1403b178c08d08dd8ef31acb2dd259b9466c3cd8c5041132401d4e77971225",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "9b1f4597-fe31-4ce2-8d6c-3148630507b9",
+        "index": 3
+      }
+    },
+    "mj-gl:029:ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_0": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 306624,
+      "sha256": "50cc8b8c1396dc749ee1c1e8800463ff767d1e34041f4d84b1ee54eaf72d931e",
+      "originalPath": "originals/029/ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1636476,
+      "originalSha256": "2cc6365fe9427430bd62270961bc7a2fc8bc66ffede31cb9735e0c9daef6e721",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2",
+        "index": 0
+      }
+    },
+    "mj-gl:029:ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_1": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 259596,
+      "sha256": "64023c6b5ada94dbaf376a410aff04cc89cf08feb8050a6d3da604db5327a2da",
+      "originalPath": "originals/029/ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1444398,
+      "originalSha256": "eb87602bcf4c5ae4280b4c6d53d3095cf81723e89a2af83218fbf6b37dd6677d",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2",
+        "index": 1
+      }
+    },
+    "mj-gl:029:ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_2": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 260974,
+      "sha256": "5e41b5ca3d7259ebbaf7572d1adc11165e1c6d80e8635ecf894d0e345f2c198c",
+      "originalPath": "originals/029/ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1470544,
+      "originalSha256": "4d3e94bea837f5ca631faf75a4dbcb1891271fc3e8d89412b4a4afbd4336ef5a",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2",
+        "index": 2
+      }
+    },
+    "mj-gl:029:ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_3": {
+      "groupId": "gl-character-029",
+      "path": "portraits/029/ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 260702,
+      "sha256": "176f1f57e74d0f05cac0689e5e9633730d44588b13c763b5a0f635495eed6451",
+      "originalPath": "originals/029/ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1521604,
+      "originalSha256": "aa8ec112fb97bed2e666ae7e19ceb7be75413636b9be675b76484b3fbe3ede6c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "ec2cf190-ddf1-4c1a-9623-9b25f0d7ebf2",
+        "index": 3
+      }
+    },
+    "mj-gl:030:2ba54b55-7434-497a-aa04-80feeace7807_0": {
+      "groupId": "gl-character-030",
+      "path": "portraits/030/2ba54b55-7434-497a-aa04-80feeace7807_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 264792,
+      "sha256": "ee8be1a94ff11f39e8d94d58c1c80a46a3be3c6abd459ed2564692acc9a7dc37",
+      "originalPath": "originals/030/2ba54b55-7434-497a-aa04-80feeace7807_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1408686,
+      "originalSha256": "cfe33045bf4132b009be50631e6226c6a2992958e15ce6866a609e53994fe4c5",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "2ba54b55-7434-497a-aa04-80feeace7807",
+        "index": 0
+      }
+    },
+    "mj-gl:030:2ba54b55-7434-497a-aa04-80feeace7807_3": {
+      "groupId": "gl-character-030",
+      "path": "portraits/030/2ba54b55-7434-497a-aa04-80feeace7807_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 254038,
+      "sha256": "b272f3a37f6fba85baaf5ecc05d3bfbeec45878ce3ac8a8bed2f65158a0d31ae",
+      "originalPath": "originals/030/2ba54b55-7434-497a-aa04-80feeace7807_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1489385,
+      "originalSha256": "09f7ad8e9a94d0a8c8ccec63749637460b8488e971bda4c265b3d9673233441e",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "2ba54b55-7434-497a-aa04-80feeace7807",
+        "index": 3
+      }
+    },
+    "mj-gl:030:7fd9031a-311a-4350-8955-381c9530b134_2": {
+      "groupId": "gl-character-030",
+      "path": "portraits/030/7fd9031a-311a-4350-8955-381c9530b134_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 225432,
+      "sha256": "669d6484d26706c6a2cd1269a43344c52b8c2458bacb04cefb91c4c9006464b1",
+      "originalPath": "originals/030/7fd9031a-311a-4350-8955-381c9530b134_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1326979,
+      "originalSha256": "ee5d2a0c2c66bdb3b8cf3d72b55c67e317bae729e9746a8e0cc31bd1668aa4dc",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "7fd9031a-311a-4350-8955-381c9530b134",
+        "index": 2
+      }
+    },
+    "mj-gl:030:d41f54c7-3709-4024-9358-62b54c46afd5_0": {
+      "groupId": "gl-character-030",
+      "path": "portraits/030/d41f54c7-3709-4024-9358-62b54c46afd5_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 239184,
+      "sha256": "432af36a76224b15bba6386afc2bd94f4d3fe58fbda48cf113fc8822aeb4376d",
+      "originalPath": "originals/030/d41f54c7-3709-4024-9358-62b54c46afd5_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1525356,
+      "originalSha256": "e4d8087cb80ef572017c1a4c5adee18244231c3df1d5083a4f534e590db7199c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "d41f54c7-3709-4024-9358-62b54c46afd5",
+        "index": 0
+      }
+    },
+    "mj-gl:030:d41f54c7-3709-4024-9358-62b54c46afd5_2": {
+      "groupId": "gl-character-030",
+      "path": "portraits/030/d41f54c7-3709-4024-9358-62b54c46afd5_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 243570,
+      "sha256": "45428ce26b6ffa0710b38de112ae12233a7614f6ddff20e423885e0647549611",
+      "originalPath": "originals/030/d41f54c7-3709-4024-9358-62b54c46afd5_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1495691,
+      "originalSha256": "533551fe4f77ae9e0cb92e01ee7149c5701f08f46864b3aafaaa6abef5ba9756",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "d41f54c7-3709-4024-9358-62b54c46afd5",
+        "index": 2
+      }
+    },
+    "mj-gl:031:5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_0": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 247366,
+      "sha256": "b7444b972add50d2a4e18088e6bbd59100acf8501ef13e273f612de99a7c7289",
+      "originalPath": "originals/031/5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1631831,
+      "originalSha256": "c9b0c0ad36a44cfd33e79ce7a5ce0ea153a302c905d33410b42845e5032d46d1",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5e98118f-9ff3-4cc0-85b0-b063b6fd67c1",
+        "index": 0
+      }
+    },
+    "mj-gl:031:5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_1": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 294744,
+      "sha256": "4e04bf22872275589d82f53b238ddcb6f12d22cf608892d7bfa13e0916cc5e10",
+      "originalPath": "originals/031/5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1661540,
+      "originalSha256": "0b306793fa104dc5f1de634db8a5a41991a46dc000a26258276e310df7fafc1e",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5e98118f-9ff3-4cc0-85b0-b063b6fd67c1",
+        "index": 1
+      }
+    },
+    "mj-gl:031:5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_2": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 310924,
+      "sha256": "6e717b8e693270b361e6e1e7060cf54385615080d285a96152785373dc436012",
+      "originalPath": "originals/031/5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1689942,
+      "originalSha256": "09733b9e0c111c8d1af55cd492e2ffde2783d4fc904ac9cb01ed31e90ce4180e",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5e98118f-9ff3-4cc0-85b0-b063b6fd67c1",
+        "index": 2
+      }
+    },
+    "mj-gl:031:5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_3": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 226138,
+      "sha256": "9d463012ce57a5fc6039c468967318d3d39f47d7c72e7125405b81a9145b26ff",
+      "originalPath": "originals/031/5e98118f-9ff3-4cc0-85b0-b063b6fd67c1_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1307581,
+      "originalSha256": "f2248341a668e13b08e5d2173f07a5c6aecacd80da7e42804c0e26414e5a2f91",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "5e98118f-9ff3-4cc0-85b0-b063b6fd67c1",
+        "index": 3
+      }
+    },
+    "mj-gl:031:8bdab899-1c58-437b-9846-5f017a803ffd_0": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/8bdab899-1c58-437b-9846-5f017a803ffd_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 231712,
+      "sha256": "642b81cce6f4be35cfe5068a199d9d831b1d382f9465247f82c9850a431b23a3",
+      "originalPath": "originals/031/8bdab899-1c58-437b-9846-5f017a803ffd_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1338667,
+      "originalSha256": "8dc1d55be751c582ae7566732c26187d5820443a5945748f43793beb80cfb96c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "8bdab899-1c58-437b-9846-5f017a803ffd",
+        "index": 0
+      }
+    },
+    "mj-gl:031:8bdab899-1c58-437b-9846-5f017a803ffd_1": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/8bdab899-1c58-437b-9846-5f017a803ffd_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 242928,
+      "sha256": "114a6b837aed7d60e2d48c4964b2c854271a60697e1aaeb4dcd276905dc49b32",
+      "originalPath": "originals/031/8bdab899-1c58-437b-9846-5f017a803ffd_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1411145,
+      "originalSha256": "fb61fddaadbd3ed37410df26a792756e3e313b59227205c49d866035443cc8eb",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "8bdab899-1c58-437b-9846-5f017a803ffd",
+        "index": 1
+      }
+    },
+    "mj-gl:031:8bdab899-1c58-437b-9846-5f017a803ffd_2": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/8bdab899-1c58-437b-9846-5f017a803ffd_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 215104,
+      "sha256": "c3f22c650d07eea0afc1597625c2542c8d90401bcd1cdef13fc86cde71da6b6b",
+      "originalPath": "originals/031/8bdab899-1c58-437b-9846-5f017a803ffd_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1286779,
+      "originalSha256": "590955ea72af33075dc7f2fb6d53c24664048527b69597595286eed9e4331954",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "8bdab899-1c58-437b-9846-5f017a803ffd",
+        "index": 2
+      }
+    },
+    "mj-gl:031:8bdab899-1c58-437b-9846-5f017a803ffd_3": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/8bdab899-1c58-437b-9846-5f017a803ffd_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 270438,
+      "sha256": "d78268bd1f3df22cc56532a6ee2c3a9625d1ec5f98b555d7c195f697387552d3",
+      "originalPath": "originals/031/8bdab899-1c58-437b-9846-5f017a803ffd_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1486223,
+      "originalSha256": "580a12f955844924665bae88666e4fc74141cbc737501e41bfb13106436f7ef3",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "8bdab899-1c58-437b-9846-5f017a803ffd",
+        "index": 3
+      }
+    },
+    "mj-gl:031:e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_0": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 195368,
+      "sha256": "915ee238bd2d816398d54996cc1858e83c49a24a8a18c77d16b3a1f0751908a0",
+      "originalPath": "originals/031/e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1249089,
+      "originalSha256": "7650e6b3117832b90001f3790ccb42ac587f1087a123aee028677f17f6ee8529",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e397db3d-e7a4-4ea7-afbd-f45562d0b6c2",
+        "index": 0
+      }
+    },
+    "mj-gl:031:e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_1": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 251012,
+      "sha256": "2dbe1da318e75690ec494b23660c904328532f6ea036b788d5246edf51b5dfd8",
+      "originalPath": "originals/031/e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1420498,
+      "originalSha256": "8076b693219ad7fc018712215c8b1604b740056f2804569cd96d745a09d5237c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e397db3d-e7a4-4ea7-afbd-f45562d0b6c2",
+        "index": 1
+      }
+    },
+    "mj-gl:031:e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_2": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 230000,
+      "sha256": "20548a5eebe33403c2b249373a7dc1ac825dfa6683080a0f8a97fff54e862b9e",
+      "originalPath": "originals/031/e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1458022,
+      "originalSha256": "146d586a7b4abeff57ebacadebc7254bc07a1a599ef4096d3bc959cead6f6a7f",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e397db3d-e7a4-4ea7-afbd-f45562d0b6c2",
+        "index": 2
+      }
+    },
+    "mj-gl:031:e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_3": {
+      "groupId": "gl-character-031",
+      "path": "portraits/031/e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 295830,
+      "sha256": "6df6f60ab4f8be308a7813e07767fc7a979505bf22b16db0ec5f921bcf487c23",
+      "originalPath": "originals/031/e397db3d-e7a4-4ea7-afbd-f45562d0b6c2_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1465106,
+      "originalSha256": "c23551a0a13b98123b03f4b16c57f21e36aed150e2ec999c7ec02e498841cf03",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e397db3d-e7a4-4ea7-afbd-f45562d0b6c2",
+        "index": 3
+      }
+    },
+    "mj-gl:033:712e6867-09a7-48b2-a1e7-6ab8585a0eaf_0": {
+      "groupId": "gl-character-033",
+      "path": "portraits/033/712e6867-09a7-48b2-a1e7-6ab8585a0eaf_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 237430,
+      "sha256": "e586d0656d916e89d646c3f22440bfe52f49f050f301b4962891736481f8487d",
+      "originalPath": "originals/033/712e6867-09a7-48b2-a1e7-6ab8585a0eaf_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1365025,
+      "originalSha256": "cac13f3dbdbbd73fef8631179ddab4fc5534f27be6072126fdbcf782fc2d506a",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "712e6867-09a7-48b2-a1e7-6ab8585a0eaf",
+        "index": 0
+      }
+    },
+    "mj-gl:033:81a7b529-af9e-4eb7-a960-64fcc5ac1205_0": {
+      "groupId": "gl-character-033",
+      "path": "portraits/033/81a7b529-af9e-4eb7-a960-64fcc5ac1205_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 224604,
+      "sha256": "bc675d0bdff6ce27381d81400dfee28cdc3adba9bf77f6318c9e08e4a0642200",
+      "originalPath": "originals/033/81a7b529-af9e-4eb7-a960-64fcc5ac1205_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1288265,
+      "originalSha256": "75a2fd6d30f74a857f2d7495216f870fdf49ed2b88903bd1c20078b2c68c45d6",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "81a7b529-af9e-4eb7-a960-64fcc5ac1205",
+        "index": 0
+      }
+    },
+    "mj-gl:033:81a7b529-af9e-4eb7-a960-64fcc5ac1205_3": {
+      "groupId": "gl-character-033",
+      "path": "portraits/033/81a7b529-af9e-4eb7-a960-64fcc5ac1205_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 307782,
+      "sha256": "6df2f3a7e4331ad99d8e1971d8eec9c17d1dbc7e017ccd58bbc570447d88f24e",
+      "originalPath": "originals/033/81a7b529-af9e-4eb7-a960-64fcc5ac1205_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1776074,
+      "originalSha256": "e799c372cc363c13db469d929969b77d39f078f1989056c665887d449988d102",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "81a7b529-af9e-4eb7-a960-64fcc5ac1205",
+        "index": 3
+      }
+    },
+    "mj-gl:034:4e13effb-5ca0-4661-9041-c5335965b8c8_0": {
+      "groupId": "gl-character-034",
+      "path": "portraits/034/4e13effb-5ca0-4661-9041-c5335965b8c8_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 343754,
+      "sha256": "f088866448ee1e1c3d9f250fd3843ef0c66fa80dc8f5f4121fe2cfbc77b3670b",
+      "originalPath": "originals/034/4e13effb-5ca0-4661-9041-c5335965b8c8_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1799663,
+      "originalSha256": "05349858dfa01e2d141d3deb3435a183fbceab571cadc7b0454891b6774942eb",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "4e13effb-5ca0-4661-9041-c5335965b8c8",
+        "index": 0
+      }
+    },
+    "mj-gl:034:4e13effb-5ca0-4661-9041-c5335965b8c8_3": {
+      "groupId": "gl-character-034",
+      "path": "portraits/034/4e13effb-5ca0-4661-9041-c5335965b8c8_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 303796,
+      "sha256": "6221d6eb73d398f999fe134dcb36f1ded2efbf77827b5150e2cf8aaa110108d1",
+      "originalPath": "originals/034/4e13effb-5ca0-4661-9041-c5335965b8c8_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1625227,
+      "originalSha256": "aa72618f7e5d17d59eeacb94cc8d1366e1399dddf7103fcfea7613b92f7811a0",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "4e13effb-5ca0-4661-9041-c5335965b8c8",
+        "index": 3
+      }
+    },
+    "mj-gl:034:e72055d8-3217-416c-bcaf-f12e9689d0fe_0": {
+      "groupId": "gl-character-034",
+      "path": "portraits/034/e72055d8-3217-416c-bcaf-f12e9689d0fe_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 304910,
+      "sha256": "03c6dcfd2de2d4a68b22aa447b600bd248159b8741d242cf9e635e34c2ad324f",
+      "originalPath": "originals/034/e72055d8-3217-416c-bcaf-f12e9689d0fe_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1725238,
+      "originalSha256": "5536a28a609009d3c7c235dfd8c318e6656c77cea21d5894964f87e9bafe5c1e",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e72055d8-3217-416c-bcaf-f12e9689d0fe",
+        "index": 0
+      }
+    },
+    "mj-gl:035:1546beb6-b793-45c1-bdcf-7d119f57567b_1": {
+      "groupId": "gl-character-035",
+      "path": "portraits/035/1546beb6-b793-45c1-bdcf-7d119f57567b_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 215702,
+      "sha256": "909e0266979d425f0a0dc302bc8d01f5ecc53333322f6014aba8cb0c75a5fbe7",
+      "originalPath": "originals/035/1546beb6-b793-45c1-bdcf-7d119f57567b_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1148116,
+      "originalSha256": "09ec8fe61d5435d9b6c11cbe92268975dc2620e3f4bbaef7d66df6c54044a293",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "1546beb6-b793-45c1-bdcf-7d119f57567b",
+        "index": 1
+      }
+    },
+    "mj-gl:035:1546beb6-b793-45c1-bdcf-7d119f57567b_2": {
+      "groupId": "gl-character-035",
+      "path": "portraits/035/1546beb6-b793-45c1-bdcf-7d119f57567b_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 206008,
+      "sha256": "b1ce3041e7454a00d9f1156dd9f53a4f75bd22044a0c10f3dce3df6f8d4d5104",
+      "originalPath": "originals/035/1546beb6-b793-45c1-bdcf-7d119f57567b_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1230248,
+      "originalSha256": "ab5bdfef4baadebd3b9a217f8b9902a5a413576a15ccbf4088935954a6d78394",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "1546beb6-b793-45c1-bdcf-7d119f57567b",
+        "index": 2
+      }
+    },
+    "mj-gl:035:1546beb6-b793-45c1-bdcf-7d119f57567b_3": {
+      "groupId": "gl-character-035",
+      "path": "portraits/035/1546beb6-b793-45c1-bdcf-7d119f57567b_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 272844,
+      "sha256": "2608d4dbc36eaaead9867fa3bf3cbf3743ad61fe308bc50592a650e473e5ff69",
+      "originalPath": "originals/035/1546beb6-b793-45c1-bdcf-7d119f57567b_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1542185,
+      "originalSha256": "8d1e2ce3e649d07e26668e7cdf615f0a3fa4c67faeb1c2eb1713349831b119cd",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "1546beb6-b793-45c1-bdcf-7d119f57567b",
+        "index": 3
+      }
+    },
+    "mj-gl:035:191dd9c6-6c96-4131-b517-7a2b5e0f230b_3": {
+      "groupId": "gl-character-035",
+      "path": "portraits/035/191dd9c6-6c96-4131-b517-7a2b5e0f230b_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 200556,
+      "sha256": "c3187425bd4802d792e2b83a8372eca9a746d8a169b62357172f9b1687252140",
+      "originalPath": "originals/035/191dd9c6-6c96-4131-b517-7a2b5e0f230b_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1246464,
+      "originalSha256": "db176a334be83fa056dad45b14d1bd701c8581aba47205ffe97e41e6893ddc18",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "191dd9c6-6c96-4131-b517-7a2b5e0f230b",
+        "index": 3
+      }
+    },
+    "mj-gl:035:d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_0": {
+      "groupId": "gl-character-035",
+      "path": "portraits/035/d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 242372,
+      "sha256": "6e3b38f9d5bc5799621aabce2cd5e7b0459463c2086e4f5ed65500e7280c8965",
+      "originalPath": "originals/035/d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1460629,
+      "originalSha256": "02088be7af0f54f0fa6bd36a600478dbb3c311361e86eba748d7cb6e840a85ed",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1",
+        "index": 0
+      }
+    },
+    "mj-gl:035:d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_1": {
+      "groupId": "gl-character-035",
+      "path": "portraits/035/d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 188490,
+      "sha256": "ef929d13d2e7cb0049aaabe8dfdb61bc5f7315415405960c5d529c4cf2afc088",
+      "originalPath": "originals/035/d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1228329,
+      "originalSha256": "abf0d5e07a44bd9efbc9ded69459d4bbe346b92a097aaf7cea143435fe48af86",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1",
+        "index": 1
+      }
+    },
+    "mj-gl:035:d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_3": {
+      "groupId": "gl-character-035",
+      "path": "portraits/035/d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 241860,
+      "sha256": "b77c983156e2427254e4c0492d5a83df27c21aa7302ba76987b810fb418209bb",
+      "originalPath": "originals/035/d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1285458,
+      "originalSha256": "c9cae761e8c8cacd73f4f0742454c464cff509a6249afe399b3912431c00eaa4",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "d5ad4d02-297c-4ac6-9c93-868c8ed6d6c1",
+        "index": 3
+      }
+    },
+    "mj-gl:037:3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_1": {
+      "groupId": "gl-character-037",
+      "path": "portraits/037/3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 256760,
+      "sha256": "9f4a9cbc7f8b3ddc46fbf12d11b8a8acf56b75a5acd85ca342fe4db978d01088",
+      "originalPath": "originals/037/3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1516087,
+      "originalSha256": "8e0a557743417a66b33afde1169688e87adb0472d9c910dca54e0d171f21c8dc",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3b5d2fb1-dcb9-4661-bf01-cc080f309e7e",
+        "index": 1
+      }
+    },
+    "mj-gl:037:3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_2": {
+      "groupId": "gl-character-037",
+      "path": "portraits/037/3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 278090,
+      "sha256": "bb4f4f88188b0b5c97166045be4a1d77a6079787a3366a240d57f4f48ae51c9b",
+      "originalPath": "originals/037/3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1650157,
+      "originalSha256": "b1ca21e0204b1ebc16fc9a2a57f79925e85897cbdac32c196666334515675882",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3b5d2fb1-dcb9-4661-bf01-cc080f309e7e",
+        "index": 2
+      }
+    },
+    "mj-gl:037:3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_3": {
+      "groupId": "gl-character-037",
+      "path": "portraits/037/3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 239980,
+      "sha256": "e0d01d97beffd0afe7c8eff290c537e3008f8f7f1749915ba7422dd9d44e74d2",
+      "originalPath": "originals/037/3b5d2fb1-dcb9-4661-bf01-cc080f309e7e_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1518015,
+      "originalSha256": "5b06c9b3d3a278a3d6af3add440b92b28ccae6e29c2db09a647b1e5382807139",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3b5d2fb1-dcb9-4661-bf01-cc080f309e7e",
+        "index": 3
+      }
+    },
+    "mj-gl:037:3d2df073-ca7a-40d4-8093-22922aaa0566_0": {
+      "groupId": "gl-character-037",
+      "path": "portraits/037/3d2df073-ca7a-40d4-8093-22922aaa0566_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 261956,
+      "sha256": "f39a19329554a6c6cede4c91ab09589fc26a8b0194e6bc12df31dfbf4c7d1d0f",
+      "originalPath": "originals/037/3d2df073-ca7a-40d4-8093-22922aaa0566_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1600122,
+      "originalSha256": "f145d9ab3418b40c71ad56cebe499c3fc805d66372aedf28c49d883125317ad0",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3d2df073-ca7a-40d4-8093-22922aaa0566",
+        "index": 0
+      }
+    },
+    "mj-gl:037:3d2df073-ca7a-40d4-8093-22922aaa0566_1": {
+      "groupId": "gl-character-037",
+      "path": "portraits/037/3d2df073-ca7a-40d4-8093-22922aaa0566_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 279730,
+      "sha256": "87588edbac0aa1403abec2b051f3e9e14bb7b57ee591954ea71c8bdb31a7cf48",
+      "originalPath": "originals/037/3d2df073-ca7a-40d4-8093-22922aaa0566_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1527853,
+      "originalSha256": "29c2ab08e42e95e51c3c3a02835924d407bb0ff47fea863c34066cfa0c2013fc",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3d2df073-ca7a-40d4-8093-22922aaa0566",
+        "index": 1
+      }
+    },
+    "mj-gl:037:3d2df073-ca7a-40d4-8093-22922aaa0566_2": {
+      "groupId": "gl-character-037",
+      "path": "portraits/037/3d2df073-ca7a-40d4-8093-22922aaa0566_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 228804,
+      "sha256": "9f8dcb5cfb5cf6ecdf0c87726a33baf20fc29e20d95d7332f5dad7b63702d738",
+      "originalPath": "originals/037/3d2df073-ca7a-40d4-8093-22922aaa0566_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1352405,
+      "originalSha256": "4b8cfd10748a7077c68d31dfbe7f862ca6f218f1b64811166608453fd1f9ed5a",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3d2df073-ca7a-40d4-8093-22922aaa0566",
+        "index": 2
+      }
+    },
+    "mj-gl:037:3d2df073-ca7a-40d4-8093-22922aaa0566_3": {
+      "groupId": "gl-character-037",
+      "path": "portraits/037/3d2df073-ca7a-40d4-8093-22922aaa0566_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 274508,
+      "sha256": "5ab8f100775dcc7ff295439a574fb68624f427c350f67d8c2b91bdb7cb0713e3",
+      "originalPath": "originals/037/3d2df073-ca7a-40d4-8093-22922aaa0566_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1538687,
+      "originalSha256": "c102441d8d6b31e77aaa7bdac34e5f90f037441b021dc5e4e97fd880e383b839",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "3d2df073-ca7a-40d4-8093-22922aaa0566",
+        "index": 3
+      }
+    },
+    "mj-gl:037:6cc91c5e-9d62-4e31-b654-a7e1aa47fcd0_0": {
+      "groupId": "gl-character-037",
+      "path": "portraits/037/6cc91c5e-9d62-4e31-b654-a7e1aa47fcd0_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 173414,
+      "sha256": "e3c5452473313693d02809b421a24bb09eb644c8a1a3c636f12b5ba1e64e997c",
+      "originalPath": "originals/037/6cc91c5e-9d62-4e31-b654-a7e1aa47fcd0_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1226203,
+      "originalSha256": "3263d2aa593f56e9ce4e61bb044b0a72378b1f3e440a58baf048ce727da2c9bd",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "6cc91c5e-9d62-4e31-b654-a7e1aa47fcd0",
+        "index": 0
+      }
+    },
+    "mj-gl:037:6cc91c5e-9d62-4e31-b654-a7e1aa47fcd0_1": {
+      "groupId": "gl-character-037",
+      "path": "portraits/037/6cc91c5e-9d62-4e31-b654-a7e1aa47fcd0_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 271104,
+      "sha256": "ef539445d36de0e4e11683eb04cdcb2f6e8e95a55deadbba700e83986f64c8a5",
+      "originalPath": "originals/037/6cc91c5e-9d62-4e31-b654-a7e1aa47fcd0_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1676434,
+      "originalSha256": "ff7041de7eed979957a0d9d3ff04c6bed1853f21403b3d29f7a7d5137e2e6bc9",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "6cc91c5e-9d62-4e31-b654-a7e1aa47fcd0",
+        "index": 1
+      }
+    },
+    "mj-gl:038:61d5b7ba-26a4-4210-b9d0-1f0547b34c33_2": {
+      "groupId": "gl-character-038",
+      "path": "portraits/038/61d5b7ba-26a4-4210-b9d0-1f0547b34c33_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 259328,
+      "sha256": "c21561d6c9f7566d1faca5c3d12a40b2efc8a61e57383e0dc9dcbe0e194b384a",
+      "originalPath": "originals/038/61d5b7ba-26a4-4210-b9d0-1f0547b34c33_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1424918,
+      "originalSha256": "ba3ce463853efc0c368dcb9729b387049876bf7b7254b8d2c9112a1de7c56180",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "61d5b7ba-26a4-4210-b9d0-1f0547b34c33",
+        "index": 2
+      }
+    },
+    "mj-gl:038:8ec5f15e-1b4f-459b-8914-cd0cba137deb_0": {
+      "groupId": "gl-character-038",
+      "path": "portraits/038/8ec5f15e-1b4f-459b-8914-cd0cba137deb_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 253480,
+      "sha256": "6a20d07e0c7b53e4404bead30d0463e07118fc830cd6351edc72e3f9e2ee9069",
+      "originalPath": "originals/038/8ec5f15e-1b4f-459b-8914-cd0cba137deb_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1528986,
+      "originalSha256": "0c9a4c8d6594ad978f71ad707a7fdaf5da2896dd1cff1730bbe29709d6818e2c",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "8ec5f15e-1b4f-459b-8914-cd0cba137deb",
+        "index": 0
+      }
+    },
+    "mj-gl:038:e9864eef-0d88-476b-9f67-fa45d2c58696_0": {
+      "groupId": "gl-character-038",
+      "path": "portraits/038/e9864eef-0d88-476b-9f67-fa45d2c58696_0.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 253850,
+      "sha256": "7d68b4a78a1f41ca888bf9f81e9cf58d69333a6cdef50f862d42e8d4e489e11a",
+      "originalPath": "originals/038/e9864eef-0d88-476b-9f67-fa45d2c58696_0.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1533976,
+      "originalSha256": "2ec6c8c566463eec88be81567d0284f784acd1be1925534cbb2dd5a601cb51d9",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e9864eef-0d88-476b-9f67-fa45d2c58696",
+        "index": 0
+      }
+    },
+    "mj-gl:038:e9864eef-0d88-476b-9f67-fa45d2c58696_1": {
+      "groupId": "gl-character-038",
+      "path": "portraits/038/e9864eef-0d88-476b-9f67-fa45d2c58696_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 240224,
+      "sha256": "89c0f430a55ada15cc526652d191955acd0f8ae98ee8143e7f9d9b635f0a2f99",
+      "originalPath": "originals/038/e9864eef-0d88-476b-9f67-fa45d2c58696_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1404244,
+      "originalSha256": "63f86953e9cc469ffa9d802ab733983181c14fe602d206f62c3127b382b26471",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e9864eef-0d88-476b-9f67-fa45d2c58696",
+        "index": 1
+      }
+    },
+    "mj-gl:038:e9864eef-0d88-476b-9f67-fa45d2c58696_2": {
+      "groupId": "gl-character-038",
+      "path": "portraits/038/e9864eef-0d88-476b-9f67-fa45d2c58696_2.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 246612,
+      "sha256": "93b17c6cc90b0958e3dd4bd323a3af65ff0b8d8af8245879f446e320d47a3f14",
+      "originalPath": "originals/038/e9864eef-0d88-476b-9f67-fa45d2c58696_2.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1399647,
+      "originalSha256": "4e62f7450afd2d7baf4fbd0827087d94bbcd09a265df2fb0c724cbee1541fd49",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e9864eef-0d88-476b-9f67-fa45d2c58696",
+        "index": 2
+      }
+    },
+    "mj-gl:038:e9864eef-0d88-476b-9f67-fa45d2c58696_3": {
+      "groupId": "gl-character-038",
+      "path": "portraits/038/e9864eef-0d88-476b-9f67-fa45d2c58696_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 338234,
+      "sha256": "91089ff471f756a9edd5fe352a8986b8509e290a61aa714fdc72fbb24e8cda78",
+      "originalPath": "originals/038/e9864eef-0d88-476b-9f67-fa45d2c58696_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1838512,
+      "originalSha256": "a233b44286b94729f4c1314c4c885811b2e5efe610a6c26a52fd48fa3df1958b",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "e9864eef-0d88-476b-9f67-fa45d2c58696",
+        "index": 3
+      }
+    },
+    "mj-gl:040:77ef0258-67b2-4987-ab3c-be24b63e980c_1": {
+      "groupId": "gl-character-040",
+      "path": "portraits/040/77ef0258-67b2-4987-ab3c-be24b63e980c_1.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 270164,
+      "sha256": "bb6529970afe46692950b50c758e00f0ced49a6b94135d9e82f8ff1282f01e56",
+      "originalPath": "originals/040/77ef0258-67b2-4987-ab3c-be24b63e980c_1.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1542078,
+      "originalSha256": "f06a7d8b5a6a542330bbfe9fef4f30f2445460906c205cb806b0b6b7b7264afe",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "77ef0258-67b2-4987-ab3c-be24b63e980c",
+        "index": 1
+      }
+    },
+    "mj-gl:040:fa9ce3d1-3487-41dc-9ae2-53203bfbdd47_3": {
+      "groupId": "gl-character-040",
+      "path": "portraits/040/fa9ce3d1-3487-41dc-9ae2-53203bfbdd47_3.webp",
+      "mimeType": "image/webp",
+      "width": 952,
+      "height": 1272,
+      "bytes": 305622,
+      "sha256": "9b2bf5137202c25e14ec3cd95712cedb2980a8119ef4dac8bc68b262257a0925",
+      "originalPath": "originals/040/fa9ce3d1-3487-41dc-9ae2-53203bfbdd47_3.jpeg",
+      "originalWidth": 1904,
+      "originalHeight": 2544,
+      "originalBytes": 1569692,
+      "originalSha256": "b00a9f59bc82a6ee7694c61289c18f9615548378eeb7aac0c41a771ebf97e2fc",
+      "source": {
+        "provider": "Midjourney",
+        "jobId": "fa9ce3d1-3487-41dc-9ae2-53203bfbdd47",
+        "index": 3
+      }
+    }
+  }
+}
